@@ -25,6 +25,9 @@ Astro Supersport 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9
 Astro Supersport 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 Astro Supersport 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+Arena 801,
+http://iptv12k.com:35461/8032022060101/452381/966
+Arena 2,http://iptv12k.com:35461/8032022060101/452381/965
 
 台湾,#genre#
 民视,http://59.125.101.187:10714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8
