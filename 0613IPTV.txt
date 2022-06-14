@@ -65,9 +65,6 @@ TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=183
 中天综合,http://59.125.101.187:10733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab
 中天亚洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=m02000000000018570617&ct=17982&tsum=41a23593234363b088028585850ccf48
-中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天娱乐,http://59.125.101.187:10734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8
-中天娱乐,http://60.251.59.180:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 东森新闻,http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
@@ -370,6 +367,9 @@ CCTV-15,http://128.14.50.198:8880/m3u8/T-oESHhaG-sJlOXUofqnPzyJp5FGf6f-j0jWZkFKY
 
 戏剧,#genre#
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+中天娱乐,http://59.125.101.187:10734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8
+中天娱乐,http://60.251.59.180:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 三立戏剧,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 东森戏剧,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
