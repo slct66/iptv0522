@@ -190,9 +190,7 @@ TVBS新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
 TVBS,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
 TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 民视台湾台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
-东森新闻,http://220.134.196.147:9540/index.m3u8
-中天新闻,http://220.134.196.147:9503/index.m3u8
-中天综合,http://220.134.196.147:9526/index.m3u8
+
 
 香港,#genre#
 凤凰卫视,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264509
@@ -476,6 +474,7 @@ Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m020000000000184
 爆谷台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
 天映频道,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
 天映经典,http://iptv12k.com:35461/live/8032022060101/452381/1253.m3u8
+龙翔时代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 卫视电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
 美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
