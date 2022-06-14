@@ -479,14 +479,13 @@ Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m020000000000184
 卫视电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
 美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 Cinemax,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6cf1d6f9-8057-4a4e-8eba-cd950c24f19d.m3u8
 好莱坞电影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
 龙华洋片,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/848ebbde-2508-4567-b7b1-a0155c27c2c6.m3u8
 星卫电影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/e3128db5-6ea6-4713-9b8b-78d23fbfe92a.m3u8
 HBO HITS,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1a89cb28-80af-4fa8-86e2-b1ca69024d0a.m3u8
 AXN,http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
-
+东森洋片,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
 
 探索旅游體育,#genre#
 BBC earth,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264517
