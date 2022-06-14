@@ -474,7 +474,7 @@ Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m020000000000184
 龙华电影,https://wabc.ml/hlk.php?id=132
 爆谷台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
 天映频道,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzex7VNAVZJZkMihzqdCAl9go
-天映经典,http://iptv12k.com:35461/live/8032022060101/452381/1253.m3u8
+天映经典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 龙翔时代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 卫视电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
 美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
