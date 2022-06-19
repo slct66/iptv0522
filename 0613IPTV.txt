@@ -438,9 +438,6 @@ Asian Food Network,http://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 美食星球,https://wabc.ml/hlk.php?id=143
 国家地理野生,http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/274106
 EYE旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
-EYE旅遊,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5.m3u8
-ELTA體育1,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/7/c833577a-7377-4930-8da1-1f9571c4d0eb.m3u8
-ELTA體育2,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/a0c87361-87f0-422f-a9ba-c9d614f7fd8e.m3u8
 探索,http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/273674
 Wild Earth,https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Z_BZA_yssxyqid8AaAg5&channelId=60d4edddb2fdec002c141135&uid=1g1307rds-llbl-i9g-wijf-7pf81nv305a/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -449,3 +446,5 @@ Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8#https://cdn-ue1-prod.tsv2.
 动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?zgangd
 国家地理,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8?zgangd
 亚洲旅游,http://60.251.59.180:8513/http/60.251.39.91:8081/hls/76/818/ch61.m3u8
+国家地理野生,http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+ELEVEN1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
