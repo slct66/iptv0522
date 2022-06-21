@@ -165,6 +165,8 @@ TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 华视,http://220.134.196.147:9513/http/116.50.42.18:8081/hls/72/814/ch48.m3u8
 民视,http://220.134.196.147:9574/http/116.50.42.18:8081/hls/73/815/ch49.m3u8
 公视,http://220.134.196.147:9515/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
+好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
 香港,#genre#
 凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
@@ -292,8 +294,7 @@ CCTV世界地理,http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
 iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220502084124453818&channel-id=wasusyt&Contentid=6000000006000120630
 动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 动物星球,http://78.83.191.18:8000/play/a05r
-好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
 
 戏剧,#genre#
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
