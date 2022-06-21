@@ -292,6 +292,8 @@ CCTV世界地理,http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
 iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220502084124453818&channel-id=wasusyt&Contentid=6000000006000120630
 动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 动物星球,http://78.83.191.18:8000/play/a05r
+好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
 戏剧,#genre#
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
@@ -305,6 +307,7 @@ iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戏剧,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 八大戏剧,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8
 八大娱乐,http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
@@ -318,7 +321,6 @@ iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?
 龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
 龙华戏剧,http://59.125.101.187:10764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
 龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龙华日韩,http://59.125.101.187:10763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
 龙华日韩,http://59.125.98.83:8535/playlist.m3u8
@@ -377,6 +379,7 @@ TVB经典,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 中天综合,http://220.134.196.147:9536/http/116.50.42.18:8081/hls/67/809/ch25.m3u8
 中天娱乐,http://220.134.196.147:9541/http/116.50.42.18:8081/hls/67/809/ch26.m3u8
 纬来育乐,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+龙华偶像,http://220.134.196.147:9536/index.m3u8
 ONE,http://203.77.246.50:5000/udp/239.1.2.236:5000
 Korea drama,http://203.77.246.50:5000/udp/239.1.1.76:5000
 
@@ -397,6 +400,8 @@ Korea drama,http://203.77.246.50:5000/udp/239.1.1.76:5000
 Star World,http://59.125.101.187:10758/playlist.m3u8
 Star Movies,http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 星卫电影,http://data.3g.yy.com/live/hls/29900720/29900720
 成龙系列,http://106.53.212.251/daili/yy.php?id=1354888751
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
@@ -418,6 +423,7 @@ Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m020000000000184
 天映经典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 龙翔时代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 卫视电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHzeyPvSZSS_LXHeDRJkhK127A
+美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亚电影,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze9i7xpFAGFBZLEOfFKUo_LE
 AXN,http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/157542
@@ -449,10 +455,13 @@ BBC earth,mitv://ns2.hellotvvod.com:9906/594be9e29b4043f0ac0f63f9fda1891e.ts
 History,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264522
 探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
 探索发现,http://60.251.59.180:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
-Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-Discovery,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-Discovery,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
-Discovery科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+探索频道,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+探索频道,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索亚洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+探索亚洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+探索动力,http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+探索科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+探索科学,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 国家地理,http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 国家地理,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 国家地理野生,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
