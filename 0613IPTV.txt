@@ -377,7 +377,8 @@ TVB经典,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 中天综合,http://220.134.196.147:9536/http/116.50.42.18:8081/hls/67/809/ch25.m3u8
 中天娱乐,http://220.134.196.147:9541/http/116.50.42.18:8081/hls/67/809/ch26.m3u8
 纬来育乐,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-
+ONE,http://203.77.246.50:5000/udp/239.1.2.236:5000
+Korea drama,http://203.77.246.50:5000/udp/239.1.1.76:5000
 
 电影,#genre#
 纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -431,6 +432,9 @@ HBO,http://59.125.101.187:10757/.m3u8
 TVN movies,http://210.210.155.35/dr9445/h/h21/index.m3u8
 TVN movies,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
+Celestial movies,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+Celestial movies,http://203.77.246.50:5000/udp/239.1.2.162:5000
+AXN,http://203.77.246.50:5000/udp/239.1.2.234:5000
 
 探索旅游體育,#genre#
 BBC earth,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264517
