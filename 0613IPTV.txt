@@ -383,7 +383,8 @@ TVB经典,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 龙华偶像,http://220.134.196.147:9536/index.m3u8
 ONE,http://203.77.246.50:5000/udp/239.1.2.236:5000
 Korea drama,http://203.77.246.50:5000/udp/239.1.1.76:5000
-
+KBS World,
+http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/65.m3u8
 电影,#genre#
 纬来电影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 纬来电影,http://59.125.101.187:10710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -444,7 +445,10 @@ Celestial movies,http://203.77.246.50:5000/udp/239.1.2.162:5000
 AXN,http://203.77.246.50:5000/udp/239.1.2.234:5000
 CCM,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 CCM,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-
+HBO,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/15.m3u8
+Cinemax,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/16.m3u8
+AXN,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/62.m3u8
+&Flix,http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/69286
 
 探索旅游體育,#genre#
 BBC earth,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264517
@@ -452,7 +456,7 @@ BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
 BBC earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 BBC earth,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-BBC earth,mitv://ns2.hellotvvod.com:9906/594be9e29b4043f0ac0f63f9fda1891e.ts
+BBC earth,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/33.m3u8
 History,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264522
 探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
 探索发现,http://60.251.59.180:8510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
@@ -483,6 +487,7 @@ InWild,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/pla
 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 国家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+Asian Food Network,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/63.m3u8
 Asian Food Network,https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 Asian Food Network,http://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 美食星球,https://wabc.ml/hlk.php?id=143
@@ -503,3 +508,9 @@ ELEVEN1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&
 搜索发现,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 纬来体育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+CNN,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/38.m3u8
+BBC World News,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/40.m3u8
+Discovery,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/45.m3u8
+Discovery Asia,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/46.m3u8
+Animal Planet,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/49.m3u8
+National Geo Wild,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/51.m3u8
