@@ -511,6 +511,34 @@ Animal Planet,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519
 National Geo Wild,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/51.m3u8
 
 iptv12k測試,#genre#
+AEC,http://iptv12k.com:35461/test167/12345/709
+翡翠华丽台,http://iptv12k.com:35461/test167/12345/698
+欢喜台,http://iptv12k.com:35461/test167/12345/707
+爱奇艺,http://iptv12k.com:35461/test167/12345/708
+全佳,http://iptv12k.com:35461/test167/12345/710
+双星,http://iptv12k.com:35461/test167/12345/706
+小太阳,http://iptv12k.com:35461/test167/12345/700
+AOD HD,http://iptv12k.com:35461/test167/12345/701 
+ANIMAL PLANET,http://iptv12k.com:35461/test167/12345/633
+NAT GEO wild,http://iptv12k.com:35461/test167/12345/630
+TV1,http://iptv12k.com:35461/live/test167/12345/742.ts
+TV2,http://iptv12k.com:35461/live/test167/12345/741.ts
+TV3,http://iptv12k.com:35461/live/test167/12345/5072.ts
+NTV7,http://iptv12k.com:35461/live/test167/12345/739.ts
+TV8,http://iptv12k.com:35461/live/test167/12345/738.ts
+TV9,http://iptv12k.com:35461/live/test167/12345/737.ts
+Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/24a2313c7ead4b69ae2e5ffad4d6fd7c.ts
+Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/3b659e20404548739e053cb501061820.ts
+Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/ff0a3d258cf049e3847b77501988b09b.ts
+Awani,http://iptv12k.com:35461/live/test167/12345/724
+RTM Sports HD,mitv://ns2.hellotvvod.com:9906/722cdaedbf3c4578bb3cb892d39291f7.ts
+Arena,mitv://ns2.hellotvvod.com:9906/9931b84a9bbf444caa1568ec881138a3.ts
+Arena 2,mitv://ns2.hellotvvod.com:9906/cdf052577d4144ca8eba9dfc0e4bbf0b.ts
+ASSP 1,http://iptv12k.com:35461/test167/12345/972
+ASSP 2,http://iptv12k.com:35461/test167/12345/971
+ASSP 3,http://iptv12k.com:35461/test167/12345/970
+ASSP 4,http://iptv12k.com:35461/test167/12345/969
+ASSP 5,http://iptv12k.com:35461/test167/12345/968
 翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 無線新聞,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
