@@ -527,9 +527,6 @@ TV3,http://iptv12k.com:35461/live/test167/12345/5072.ts
 NTV7,http://iptv12k.com:35461/live/test167/12345/739.ts
 TV8,http://iptv12k.com:35461/live/test167/12345/738.ts
 TV9,http://iptv12k.com:35461/live/test167/12345/737.ts
-Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/24a2313c7ead4b69ae2e5ffad4d6fd7c.ts
-Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/3b659e20404548739e053cb501061820.ts
-Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/ff0a3d258cf049e3847b77501988b09b.ts
 Awani,http://iptv12k.com:35461/live/test167/12345/724
 RTM Sports HD,mitv://ns2.hellotvvod.com:9906/722cdaedbf3c4578bb3cb892d39291f7.ts
 Arena,mitv://ns2.hellotvvod.com:9906/9931b84a9bbf444caa1568ec881138a3.ts
@@ -594,7 +591,7 @@ HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
 HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
 HBO原创,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
 JET TV,http://iptv12k.com:35461/live/test167/12345/1262.m3u8
-星卫HD电影,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
+星卫HD电影,http://iptv12k.com:35461/live/test167/12345/1870.m3u8
 美亚电影,http://iptv12k.com:35461/live/test167/12345/1260.m3u8
 美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8
 卫视电影台,http://iptv12k.com:35461/live/test167/12345/1258.m3u8
