@@ -516,11 +516,11 @@ AEC,http://iptv12k.com:35461/test167/12345/709
 欢喜台,http://iptv12k.com:35461/test167/12345/707
 爱奇艺,http://iptv12k.com:35461/test167/12345/708
 全佳,http://iptv12k.com:35461/test167/12345/710
-双星,http://iptv12k.com:35461/test167/12345/706
 小太阳,http://iptv12k.com:35461/test167/12345/700
 AOD HD,http://iptv12k.com:35461/test167/12345/701 
 ANIMAL PLANET,http://iptv12k.com:35461/test167/12345/633
 NAT GEO wild,http://iptv12k.com:35461/test167/12345/630
+Discovery,http://iptv12k.com:35461/test167/12345/627
 TV1,http://iptv12k.com:35461/live/test167/12345/742.ts
 TV2,http://iptv12k.com:35461/live/test167/12345/741.ts
 TV3,http://iptv12k.com:35461/live/test167/12345/5072.ts
@@ -528,6 +528,9 @@ NTV7,http://iptv12k.com:35461/live/test167/12345/739.ts
 TV8,http://iptv12k.com:35461/live/test167/12345/738.ts
 TV9,http://iptv12k.com:35461/live/test167/12345/737.ts
 Awani,http://iptv12k.com:35461/live/test167/12345/724
+Astro Oh!K,http://iptv12k.com:35461/live/test167/12345/712.ts
+ONE HD,http://iptv12k.com:35461/live/test167/12345/711.ts
+KBS World,http://iptv12k.com:35461/live/test167/12345/713.ts
 RTM Sports HD,mitv://ns2.hellotvvod.com:9906/722cdaedbf3c4578bb3cb892d39291f7.ts
 Arena,mitv://ns2.hellotvvod.com:9906/9931b84a9bbf444caa1568ec881138a3.ts
 Arena 2,mitv://ns2.hellotvvod.com:9906/cdf052577d4144ca8eba9dfc0e4bbf0b.ts
@@ -536,6 +539,10 @@ ASSP 2,http://iptv12k.com:35461/test167/12345/971
 ASSP 3,http://iptv12k.com:35461/test167/12345/970
 ASSP 4,http://iptv12k.com:35461/test167/12345/969
 ASSP 5,http://iptv12k.com:35461/test167/12345/968
+Kix HD,http://iptv12k.com:35461/test167/12345/689
+Showcase Movies,http://iptv12k.com:35461/test167/12345/1826
+tVN movies HD,http://iptv12k.com:35461/test167/12345/715
+Asia Food Network,http://iptv12k.com:35461/test167/12345/638
 翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 無線新聞,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
