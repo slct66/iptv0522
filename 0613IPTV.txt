@@ -1,26 +1,90 @@
 ﻿新马,#genre#
 TV1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/286848
+TV1,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824285
+TV1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033692
 TV2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158355
+TV2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033693
 TV3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158360
+TV3,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033694
+NTV7,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033695
 NTV7,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+8TV,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033774
 TVS HD,https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 Astro Awani,http://50.7.220.74:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037
+Astro Awani,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824277
+Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033716
+Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033765
 Astro AEC,http://50.7.220.74:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
+Astro AEC,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824305
+Astro AEC,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033703
 Astro 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
+Astro 华丽,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033700
 Astro 欢喜,http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
+Astro 欢喜,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824320
+Astro 欢喜,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033701
 Astro 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
+Astro 全佳,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824321
+Astro 全佳,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033698
+Astro 小太阳,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824324
+Astro 小太阳,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033711
+Astro IQIYI,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033710
+Astro AOD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033702
+Astro AOD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033712
 中天亚洲,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264515
-Astro AOD,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264512
+中天亚洲,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033747
+TVB E-NEWS,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033748
+TVB XING HE HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033749
+TVBS ASIA HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033750
+CELESTIAL,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033708
+CCM,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033751
+AOD 352 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033753
+AOD 355 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033756
+KBS World HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033757
+ONE HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033758
+Oh!K HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033759
+KPLUS HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033810
+tvN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033760
+tvN Movies,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033764
+HITS MOVIES HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033761
+HBO Hits,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033762
+AXN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033788
+CINEMAX HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033763
+Paramount Network,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033819
+Paramount Network,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033823
+BBC Earth HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033814
+BBC Lifestyle,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033815
+DISCOVERY HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033775
+DISCOVERY ASIA,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033776
+Discovery Science,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033777
+HISTORY HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033778
+ANIMAL PLANET HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033779
+CARTOON NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033785
+FOOD NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033792
+AFN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033793
+WARNER TV,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033794
+ASTRO ARENA HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033802
+Astro Supersport 1,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849332
+Astro Supersport 1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033704
+Astro Supersport 1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033726
+Astro Supersport 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
+Astro Supersport 2,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849333
+Astro Supersport 2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033705
+Astro Supersport 2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033726
+Astro Supersport 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
+Astro Supersport 3,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849334
+Astro Supersport 3,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033706
+Astro Supersport 3,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033724
+Astro Supersport 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+Astro Supersport 4,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033707
+Astro Supersport 4,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849335
+Astro Supersport 4,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033723
+Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡5,http://50.7.220.74:8278/Channel5/playlist.m3u8?tid=m19816889fe94&ct=18336&tsum=31ccb230ac02543bd68094ed3aeb0344
 新加坡CNA,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
 新加坡lU,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-Astro Supersport 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
-Astro Supersport 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
-Astro Supersport 3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
-Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 
 
 台湾,#genre#
