@@ -166,6 +166,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 民视綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 半島國際新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+东风卫视,http://59.125.101.187:12773/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 亚洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -308,11 +309,11 @@ iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?
 戏剧,#genre#
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中天综合,http://59.125.101.187:12733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8
-中天娱乐,http://59.125.101.187:12734/http/192.168.77.24:8081/hls/67/809/ch25.m3u8
+中天娱乐,http://59.125.101.187:12737/http/192.168.77.24:8081/hls/67/809/ch26.m3u8
 中天娱乐,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 三立戏剧,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-东森综合,http://59.125.101.187:12771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8
+东森综合,http://59.125.101.187:12734/http/192.168.77.24:8081/hls/63/805/ch12.m3u8
 东森戏剧,http://59.125.101.187:12772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
 东森戏剧,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 纬来综合,http://59.125.101.187:12770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
