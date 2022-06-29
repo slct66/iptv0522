@@ -334,6 +334,8 @@ iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?
 东森戏剧,http://59.125.101.187:12772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
 纬来戏剧,http://59.125.101.187:12756/playlist.m3u8
 纬来综合,http://59.125.101.187:12770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
+纬来日本,http://59.125.101.187:12771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8
+纬来育乐,http://59.125.101.187:12762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8
 八大综合,http://59.125.101.187:12768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大第一,http://59.125.101.187:12770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8
@@ -391,6 +393,7 @@ Star Movies Gold,http://59.125.101.187:12745/http/192.168.77.24:8081/hls/62/804/
 卫视电影台,http://59.125.101.187:12753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://59.125.101.187:12745/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 成龙系列,http://106.53.212.251/daili/yy.php?id=1354888751
+HBO,http://59.125.101.187:12757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
@@ -399,7 +402,7 @@ Cinemax,http://59.125.101.187:12761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8
 Cinemax,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN,http://59.125.101.187:12759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8
-Animax,http://50.7.220.74:8278/nippontv_japan/playlist.m3u8?tid=m02000000000018410979&ct=17961&tsum=ffa3078fcab317cc03360e4c7c20125c
+Animax,http://59.125.101.187:12744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8
 好莱坞电影,http://59.125.101.187:12754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8
 好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
@@ -432,6 +435,7 @@ BBC earth,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b50
 BBC earth,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/33.m3u8
 History,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264522
 探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
+探索频道,http://59.125.101.187:12710/http/192.168.77.24:8081/hls/71/813/ch44.m3u8
 探索频道,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 探索频道,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 探索亚洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
