@@ -386,10 +386,11 @@ KBS World,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/65.
 Star Movies,http://103.55.144.46/hls/starmovies.m3u8
 Star Movies Gold,http://59.125.101.187:12745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8
 Sony Pix HD,http://103.55.144.46:80/hls/sonypixhd.m3u8
-星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
+星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 卫视电影台,http://59.125.101.187:12753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8
+卫视电影台,http://59.125.101.187:10745/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 成龙系列,http://106.53.212.251/daili/yy.php?id=1354888751
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
