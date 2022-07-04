@@ -1,4 +1,4 @@
-CE﻿新马,#genre#
+﻿新马,#genre#
 TV1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/286848
 TV1,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824285
 TV1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033692
@@ -363,7 +363,7 @@ iHOT爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?
 龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龙华偶像,http://59.125.101.187:8863/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
 ELTA影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-卫视中文,http://59.125.101.187:8810/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?
+卫视中文,http://59.125.101.187:8815/http/60.251.39.91:8081/hls/62/804/ch05.m3u8?
 MOMO親子,http://59.125.101.187:8810/http/192.168.77.24:8081/hls/70/812/ch40.m3u8
 MOMO親子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 精選動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
