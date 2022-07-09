@@ -65,21 +65,23 @@ FOOD NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/5
 AFN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033793
 WARNER TV,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033794
 ASTRO ARENA HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033802
-Astro SuperSport 1,https://iptvthai.my.to/assp.m3u8
-Astro SuperSport 1,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92053
-Astro SuperSport 1,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/146068
+Astro Supersport 1,https://iptvthai.my.to/assp.m3u8
+Astro Supersport 1,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92053
+Astro Supersport 1,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/146068
 Astro Supersport 1,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849332
 Astro Supersport 1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033704
 Astro Supersport 1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033726
 Astro Supersport 1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
-Astro SuperSport 2,https://iptvthai.my.to/assp2.m3u8
-Astro SuperSport 2,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157556
+Astro Supersport 1,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92003
+Astro Supersport 2,https://iptvthai.my.to/assp2.m3u8
+Astro Supersport 2,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157556
 Astro Supersport 2,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849333
 Astro Supersport 2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033705
 Astro Supersport 2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033726
 Astro Supersport 2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
-Astro SuperSport 3,https://iptvthai.my.to/assp3.m3u8
-Astro SuperSport 3,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157557
+Astro Supersport 3,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92034
+Astro Supersport 3,https://iptvthai.my.to/assp3.m3u8
+Astro Supersport 3,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157557
 Astro Supersport 3,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849334
 Astro Supersport 3,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033706
 Astro Supersport 3,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033724
@@ -91,6 +93,7 @@ Astro Supersport 4,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08df
 Astro Supersport 4,https://m3u-editor.com/serve/2c5dcac0-f540-11ec-b5d0-f9670af6778f/587849335
 Astro Supersport 4,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033723
 Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+Astro Supersport 5,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92012
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡5,http://50.7.220.74:8278/Channel5/playlist.m3u8?tid=m19816889fe94&ct=18336&tsum=31ccb230ac02543bd68094ed3aeb0344
 新加坡CNA,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
