@@ -1,5 +1,6 @@
 ﻿新马,#genre#
 TV1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/286848
+TV1,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/286848
 TV1,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824285
 TV1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033692
 TV2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158355
