@@ -1,11 +1,9 @@
 ﻿新马,#genre#
-TV1,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/286848
 TV1,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/286848
-TV1,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824285
 TV1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033692
 TV2,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158355
+TV2,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/158355
 TV2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033693
-TV3,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158360
 TV3,https://Astro.kpsboyserver.com/tv3.m3u8
 TV3,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033694
 NTV7,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033695
@@ -13,12 +11,8 @@ NTV7,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m
 8TV,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 8TV,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033774
 TVS HD,https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-Astro Awani,http://50.7.220.74:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037
-Astro Awani,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824277
 Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033716
 Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033765
-Astro AEC,http://50.7.220.74:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
-Astro AEC,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824305
 Astro AEC,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033703
 Astro 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
 Astro 华丽,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033700
@@ -510,7 +504,6 @@ InWild,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/pla
 好消息2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
 愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-国家地理野生,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 Animal Planet,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
 Asian Food Network,http://103.105.213.251:8443/live/FTDp1oajlIHjg_aJ5pVuzA/1655973519/63.m3u8
 Asian Food Network,https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
