@@ -14,16 +14,12 @@ TVS HD,https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033716
 Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033765
 Astro AEC,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033703
-Astro 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
 Astro 华丽,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033700
-Astro 欢喜,http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
-Astro 欢喜,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824320
 Astro 欢喜,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033701
-Astro 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
-Astro 全佳,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824321
 Astro 全佳,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033698
 Astro 小太阳,https://m3u-editor.com/serve/63408b40-f530-11ec-bf0e-9fc42c4a453f/587824324
 Astro 小太阳,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033711
+Astro IQIYI,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290508
 Astro IQIYI,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033710
 Astro AOD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033702
 Astro AOD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033712
@@ -34,8 +30,10 @@ TVB XING HE HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d
 TVBS ASIA HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033750
 CELESTIAL,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033708
 CCM,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033751
-AOD 352 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033753
-AOD 355 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033756
+Astro AOD 352 HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/247411
+Astro AOD 352 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033753
+Astro AOD 354 HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/247413
+Astro AOD 355 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033756
 KBS World HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033757
 ONE HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033758
 Oh!K HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033759
@@ -55,11 +53,14 @@ DISCOVERY ASIA,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d
 Discovery Science,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033777
 HISTORY HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033778
 ANIMAL PLANET HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033779
+ANIMAL PLANET HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157532
 CARTOON NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033785
 FOOD NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033792
 AFN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033793
 WARNER TV,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033794
-ASTRO ARENA HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033802
+Astro Arena,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157485
+Astro Arena,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033802
+Astro Arena 2,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/287793
 Astro Supersport 1,https://iptvthai.my.to/assp.m3u8
 Astro Supersport 1,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92053
 Astro Supersport 1,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/146068
