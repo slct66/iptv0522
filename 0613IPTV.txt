@@ -36,10 +36,11 @@ Astro AOD 354 HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/247
 Astro AOD 355 HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033756
 KBS World HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033757
 ONE HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033758
-Oh!K HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033759
+KPLUS HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157567
 KPLUS HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033810
 tvN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033760
 tvN Movies,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033764
+tvN Movies,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157520
 HITS MOVIES HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033761
 HBO Hits,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033762
 AXN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033788
@@ -54,6 +55,8 @@ Discovery Science,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb
 HISTORY HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033778
 ANIMAL PLANET HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033779
 ANIMAL PLANET HD,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157532
+NAT GEO Wild,http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/174724
+NAT GEO Wild,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
 CARTOON NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033785
 FOOD NTWK HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033792
 AFN HD,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033793
