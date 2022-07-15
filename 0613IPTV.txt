@@ -210,14 +210,10 @@ TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 三立都會,http://59.125.101.187:8822/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 年代MUCH,http://59.125.101.187:8830/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 年代新闻,http://59.125.101.187:8817/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-民视,http://8.210.36.158/de/twlive.php?id=live1050
-民视新闻,http://8.210.36.158/de/twlive.php?id=live1204
-华视,http://8.210.36.158/de/twlive.php?id=live1049
-中视,http://8.210.36.158/de/twlive.php?id=live1048
-三立都會,http://8.210.36.158/de/twlive.php?id=live1020
-三立新闻,http://8.210.36.158/de/twlive.php?id=live1016
-壹新闻,http://8.210.36.158/de/twlive.php?id=live1242
-东森新闻,http://8.210.36.158/de/twlive.php?id=live1014
+台视,rtmp://59.124.75.150/sat/tv071
+台视,rtmp://59.124.75.138:1935/sat/tv071
+台视,rtmp://59.124.75.157/sat/tv071
+
 
 香港,#genre#
 凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
