@@ -14,6 +14,11 @@ TVS HD,https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033716
 Astro Awani,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033765
 Astro AEC,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033703
+AEC-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621
+AEC-3,mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34
+AEC-4,mitv://ns2.hellotvvod.com:9906/e2eb435e302a4807aa29dc90790a6de9
+AEC-5,mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts
+AEC-6,P2p://ns2.hellotvvod.com:9906/c3b00314661e4bf1954528045c337e0a#P2p://ns2.hellotvvod.com:9906/264bb45633b04dc4b4c3ed3b47477806
 Astro 华丽,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033700
 Astro 欢喜,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033701
 Astro 全佳,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033698
