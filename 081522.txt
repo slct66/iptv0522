@@ -551,9 +551,20 @@ CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x72
 体育,#genre#
 Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 Super Sport HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20414 
+Super Sport HD,https://srv.vhls.ru.com/cdn/premium123/playlist.m3u8|referer=https://player.licenses4.me/
+Super Sport HD,https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 Super Sport 2 HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20415 
+Super Sport 2 HD,https://srv.vhls.ru.com/cdn/premium124/playlist.m3u8|referer=https://player.licenses4.me/
+Super Sport 2 HD,https://networkbest.ru.com/cdn/premium124/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+Super Sport 2 HD,https://aqfadtv.xyz/supersport2.m3u8
 Super Sport 3 HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20416
+Super Sport 3 HD,https://srv.vhls.ru.com/cdn/premium125/playlist.m3u8|referer=https://player.licenses4.me/
+Super Sport 3 HD,https://networkbest.ru.com/cdn/premium125/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+Super Sport 3 HD,https://aqfadtv.xyz/supersport3.m3u8
 Super Sport 4 HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20417 
+Super Sport 4 HD,https://srv.vhls.ru.com/cdn/premium126/playlist.m3u8|referer=https://player.licenses4.me/
+Super Sport 4 HD,https://networkbest.ru.com/cdn/premium126/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+Super Sport 4 HD,https://aqfadtv.xyz/supersport4.m3u8
 Super Sport 5 HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
 Arena HD,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20422 
 SPOTV,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20563 
