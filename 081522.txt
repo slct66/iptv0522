@@ -645,6 +645,7 @@ CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD833733728337337
 精選動漫,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 經典卡通,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
 蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
+哆啦A夢舊版全集,http://zzy789.xyz/bili.php?id=1717236
 龙华卡通,http://59.125.122.90:18600/.m3u8
 Nickelodeon,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21049
 Boomerang,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20480 
