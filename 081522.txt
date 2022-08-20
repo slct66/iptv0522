@@ -98,6 +98,26 @@ TVN movies,http://210.210.155.35/dr9445/h/h21/index.m3u8
 TVN movies,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
 
+Astro Prima,https://stream.zeehanzgadget.com/prima
+Astro Ria,https://stream.zeehanzgadget.com/ria
+Astro Warna,https://stream.zeehanzgadget.com/warna
+Astro Citra,https://stream.zeehanzgadget.com/citra
+Oasis HD,https://stream.zeehanzgadget.com/oasis
+Naura,https://stream.zeehanzgadget.com/naura
+Astro Aura HD,https://stream.zeehanzgadget.com/aura
+Boo HD,https://stream.zeehanzgadget.com/boo
+AEC HD,https://stream.zeehanzgadget.com/aec
+Astro欢喜,https://stream.zeehanzgadget.com/huaheedai
+Astro双星,https://stream.zeehanzgadget.com/shuangxing
+全佳 HD,https://stream.zeehanzgadget.com/quanjia
+爱奇艺 HD,https://stream.zeehanzgadget.com/iqiyi
+华丽台 HD | TVB Jade,https://stream.zeehanzgadget.com/tvbjade
+TVB 星河,https://stream.zeehanzgadget.com/tvbxinghe
+Awani,https://stream.zeehanzgadget.com/awani
+KBS World HD,https://stream.zeehanzgadget.com/kbsworld
+KPlus HD,https://stream.zeehanzgadget.com/kplus
+
+
 
 港澳台,#genre#
 
