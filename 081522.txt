@@ -992,7 +992,7 @@ MBC,http://198.16.64.10:8278/mbc_korea/playlist.m3u8?tid=MEAE9573382995733829&ct
 SBS,http://198.16.64.10:8278/sbs_korea/playlist.m3u8?tid=MD4D1766226017662260&ct=19225&tsum=f1b382d363dc059ae4d9d14bc0c66913
 TVN,http://198.16.64.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182
 
-218.32.47.179 Testing,#genre
+218.32.47.179 Testing,#genre#
 龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
