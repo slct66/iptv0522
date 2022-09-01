@@ -1361,6 +1361,73 @@ ELEVEN 2,http://iptv.everydaytv.top/taiwanlive.php?id=63
 
 
 晴天,#genre#
+
+TV1,P2p://ns2.hellotvvod.com:9906/745446d034a5429f8dce5c43fe3944c8
+TV2,P2p://ns2.hellotvvod.com:9906/fe3119a12f0e4b6abd9fa706b9d30f1a
+TV3,P2p://ns2.hellotvvod.com:9906/5777f7f45fdd4637badec8f3654be3a2
+NTV7,P2p://ns2.hellotvvod.com:9906/7155d78122b247a58b8c3937cd8a5b75
+八度空间,P2p://ns2.hellotvvod.com:9906/f91c6cc0f797454aa2b63ef70c0519f9
+TV9,P2p://ns2.hellotvvod.com:9906/0ff56eb9d39a4f5f917a8456452f0c33
+Astro Ria HD,P2p://ns2.hellotvvod.com:9906/792a1c5e3a1d48488d6bb5d29b3f2e29
+Astro Prima HD,P2p://ns2.hellotvvod.com:9906/37bfcb29aa41464e9e1751be606a631d
+Astro Oasis HD,P2p://ns2.hellotvvod.com:9906/076f212a97e9426aa34f4c54a98a3163
+Astro Warna HD,P2p://ns2.hellotvvod.com:9906/ef882e08116f44cc994594603ea739dd
+Astro Citra HD,P2p://ns2.hellotvvod.com:9906/87e9f43f5bcf4e05bac323682c23a10f
+Astro Rania HD,P2p://ns2.hellotvvod.com:9906/7efc9dc2c16b482ca770243ae32f509c
+Astro Aura HD,P2p://ns2.hellotvvod.com:9906/bb02f259cce24f0990022f7c08b6b108
+Al-Hijrah,P2p://ns2.hellotvvod.com:9906/4b5fdef982554968bb7b9e046bc0e4d7
+SUN TV,P2p://ns2.hellotvvod.com:9906/6d2ea09775674201881ad608f1ec54c7
+Astro Cricket,P2p://ns2.hellotvvod.com:9906/55987bcac30147cb9c5675983faa5403
+爱奇艺,P2p://ns2.hellotvvod.com:9906/25f24b7b5a354a638f342919a8b5266c
+Astro小太阳,P2p://ns2.hellotvvod.com:9906/25e867c4bc474e4489152d651c9a90cc
+Astro AEC(备),P2p://ns2.hellotvvod.com:9906/d956ceff1cac4275b9b2ae2d0fb87a02
+Astro双星,P2p://ns2.hellotvvod.com:9906/8ee38bf9536b415086bb50a6c9cbf00a
+Astro全佳,P2p://ns2.hellotvvod.com:9906/3a5934f1983746e3b34c2b0e24dfe8ca
+天映频道,P2p://ns2.hellotvvod.com:9906/ad9114e184ff4a469895ff75c6c57cb9
+翡翠台(华丽台),P2p://ns2.hellotvvod.com:9906/c7e2750231af4b4a8062e51e93fba43e
+Astro AOD HD 311,P2p://ns2.hellotvvod.com:9906/0acbe82cb7d64c3889fba6035940a09d
+中天亚洲台,P2p://ns2.hellotvvod.com:9906/81d676cca99b4b10b90c99828a8111ee
+TVB星河(粤),P2p://ns2.hellotvvod.com:9906/9d44d9c4102c4f5bb1b6733718e5fe08
+天映经典,P2p://ns2.hellotvvod.com:9906/c1a0c02038054f0ca278d14d348fbaaf
+Astro欢喜台(备),P2p://ns2.hellotvvod.com:9906/9e1407f6658b4af0bd3ff0fb8e41b915
+KBS World,P2p://ns2.hellotvvod.com:9906/0db8739a75634c4e826143e7bb9b7a7d
+ONE,P2p://ns2.hellotvvod.com:9906/1aadb9f831f4475fa617466cfc65ffb3
+Oh!K,P2p://ns2.hellotvvod.com:9906/7320d43f4b154e74a07c2e7af356c70f
+Colors Hindi,P2p://ns2.hellotvvod.com:9906/442c2cac9d12433caec1895b3032be89
+TVS,P2p://ns2.hellotvvod.com:9906/b9b66d297df44172abe2a49d494b7648
+Astro Vaanavil,P2p://ns2.hellotvvod.com:9906/1b49dad9301b45edb922b5b14c5c27c7
+tvN Movies HD,P2p://ns2.hellotvvod.com:9906/1c7ea21ac1b2413e9e1d5eaad3670f3f
+Astro Awani,P2p://ns2.hellotvvod.com:9906/f1e49e7f13564a948ed6ba00f9b1ae86
+BERNAMA,P2p://ns2.hellotvvod.com:9906/febda5fdda4047cdb596dbb7088b1355
+CGTN,P2p://ns2.hellotvvod.com:9906/e8ed48a3d6784b3a877278b2e901f876
+BBC World News,P2p://ns2.hellotvvod.com:9906/f15dda4822324bb4b9395840390e8e46
+Al Jazeera English,P2p://ns2.hellotvvod.com:9906/b212e4c6f9e24b78be1a1a24df4eeae9
+CNBC,P2p://ns2.hellotvvod.com:9906/82885eb8d6c4422dbcde6d916126b454
+Bloomberg TV,P2p://ns2.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
+Astro Ceria,P2p://ns2.hellotvvod.com:9906/d9b8a5f9f86547bd9cb81a913182bada
+Cartoon Network,P2p://ns2.hellotvvod.com:9906/a2b31d20412f4277a9b84460545cdfe4
+Nickelodeon,P2p://ns2.hellotvvod.com:9906/86279b335519488890d07cc41cf633ca
+Nick Jr.,P2p://ns2.hellotvvod.com:9906/9da48f721119493b986714f05240a082
+Boomerang,P2p://ns2.hellotvvod.com:9906/c5a10b118a004a11bb573081bdd9ccd0
+AXN亚洲,P2p://ns2.hellotvvod.com:9906/cfe34e74f67844eb9f68f247cb43cd78
+KIX,P2p://ns2.hellotvvod.com:9906/74388187f5704ec9b4cda1f2f7c52608
+HITS,P2p://ns2.hellotvvod.com:9906/0872358ecd494c9387d6ac21297672f1
+Astro Arena,P2p://ns2.hellotvvod.com:9906/914d4df4d36746f6b2e41a1e3ccc885f
+Astro SuperSport,P2p://ns2.hellotvvod.com:9906/dd8ade86aa22468ab395d0962151a503
+Astro SuperSport 2,P2p://ns2.hellotvvod.com:9906/4265620f6a204ef996f0101aef049ad8
+Astro SuperSport 3,P2p://ns2.hellotvvod.com:9906/89ec59d1c7494b91859ae49088d0f94c
+Astro SuperSport 4,P2p://ns2.hellotvvod.com:9906/7ffdcb1808ce47729119ed92e54db6a3
+beIN Sports 3,P2p://ns2.hellotvvod.com:9906/a8c5a726618c4c93a6bc59cdd4f5d824
+WWE,P2p://ns2.hellotvvod.com:9906/f0139b507ef649f69c71fb93d389f604
+Sky News,P2p://ns2.hellotvvod.com:9906/fbd9fa4839564d239ab83d2b3ed9092c
+八度空间(备),P2p://ns2.hellotvvod.com:9906/2b7b58d9c41847be90eab3fa5b2ff9eb
+Nat Geo Wild,P2p://ns2.hellotvvod.com:9906/8dd3662a489a4a54924614e0df67cb8e
+tvN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
+DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
+France24,P2p://ns2.hellotvvod.com:9906/05a079cf58ae4885bb677ead92032505
+SPOTV,P2p://ns2.hellotvvod.com:9906/9029f49196374af7b13a601a532e7495
+beIN Sports,P2p://ns2.hellotvvod.com:9906/278dc4fa10394f8d94c90cf17358baaa
+
 凤凰资讯,p2p://54.39.16.152:9906/6258288b0006f4a60f087dab170cf23e
 凤凰中文,p2p://54.39.16.152:9906/6258281d0002e1400f06cef0fc77e330
 凤凰香港,p2p://54.39.16.152:9906/62582991000071710f0c7b707491d2e9
