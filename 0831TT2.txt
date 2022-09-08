@@ -120,6 +120,48 @@ KBS World HD,https://stream.zeehanzgadget.com/kbsworld
 KPlus HD,https://stream.zeehanzgadget.com/kplus
 
 
+TV1,http://51.79.82.208:16001
+TV2,http://51.79.82.208:16002
+TV3,http://51.79.82.208:16003
+八度空间,http://51.79.82.208:16005
+9台,http://51.79.82.208:16006
+astro RIA,http://51.79.82.208:16007
+astro PRIMA,http://51.79.82.208:16008
+astro OASIS,http://51.79.82.208:16009
+卫视电影,http://23.237.10.66:16010
+astro ,http://51.79.82.208:16014
+TA-DAA,http://23.237.10.66:16053
+astro体育3,http://51.79.82.208:16062
+bein sports,http://51.79.82.208:16064
+bein sports3,http://51.79.82.208:16065
+8TV,http://51.79.82.208:16005
+astro AEC,http://51.79.82.208:16021
+astro ARENA,http://51.79.82.208:16058
+astro BOX OFFICE,http://51.79.82.208:16013
+astro PRIMA,http://51.79.82.208:16008
+astro RIA,http://51.79.82.208:16007
+astro SUPERSPORT3,http://51.79.82.208:16062
+Astro UHD,http://51.79.82.208:16014
+astro WARNA,http://51.79.82.208:16010
+BEIN SPORTS,http://51.79.82.208:16064
+BEIN SPORTS3,http://51.79.82.208:16065
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
+DIDIK TV,http://51.79.82.208:16004
+HGTV,http://51.79.82.208:16057
+NONAME,http://51.79.82.208:16009
+NONAME,http://51.79.82.208:16047
+NONAME,http://51.79.82.208:16059
+OKEY,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+TV1,http://51.79.82.208:16001
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+TV2,http://51.79.82.208:16002
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+TV3,http://51.79.82.208:16003
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+TV9,http://51.79.82.208:16006
+天映频道,http://51.79.82.208:16024
+
 
 港澳台,#genre#
 
