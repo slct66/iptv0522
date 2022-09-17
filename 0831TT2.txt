@@ -313,6 +313,10 @@ TVB星河频道,http://173.211.42.73:8278/tvbxinhe_twn/playlist.m3u8?tid=MD4D709
 民视台湾台,http://173.211.42.73:8278/ftvtaiwan_twn/playlist.m3u8?tid=ME1E7840524878405248&ct=19234&tsum=2f1d9e430f55fa8a953df69b021c4c36
 东森新闻,http://173.211.42.73:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 东森戏剧,http://173.211.42.73:8278/ettvdrama/playlist.m3u8?tid=MFBF4367295743672957&ct=19234&tsum=de5315ac3cf9b1b8ff44e5a9e3ad16a9
+龙华戏剧,http://173.211.42.73:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
+龙华偶像,http://173.211.42.73:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&ct=19234&tsum=792a8d573313f22d3bd8670148df20cb
+龙华经典,http://173.211.42.73:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+龙华洋片,http://173.211.42.73:8278/lunghuawestern_twn/playlist.m3u8?tid=MF7F3761146937611469&ct=19234&tsum=e8b375d0c73fff5a34a7e3b4de2f53bb
 TVBS新闻台,http://173.211.42.73:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828&ct=19234&tsum=315ac9a0876bc361c6715ac6d5a96777
 TVBS欢乐台,http://173.211.42.73:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 TVBS,http://173.211.42.73:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
@@ -1319,70 +1323,7 @@ ELTA影剧台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492
 龙华经典,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 龙祥时代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 
-everydaytv Testing,#genre#
-台视,http://iptv.everydaytv.top/taiwanlive.php?id=1
-中视,http://iptv.everydaytv.top/taiwanlive.php?id=2
-华视,http://iptv.everydaytv.top/taiwanlive.php?id=3
-民视,http://iptv.everydaytv.top/taiwanlive.php?id=4
-公视,http://iptv.everydaytv.top/taiwanlive.php?id=5
-人间卫视,http://iptv.everydaytv.top/taiwanlive.php?id=6
-大爱,http://iptv.everydaytv.top/taiwanlive.php?id=7
-好消息频道,http://iptv.everydaytv.top/taiwanlive.php?id=8
-国家地理,http://iptv.everydaytv.top/taiwanlive.php?id=9
-DISCOVERY,http://iptv.everydaytv.top/taiwanlive.php?id=10
-TLC旅游,http://iptv.everydaytv.top/taiwanlive.php?id=11
-动物星球,http://iptv.everydaytv.top/taiwanlive.php?id=12
-亚洲旅游,http://iptv.everydaytv.top/taiwanlive.php?id=13
-Baby TV,http://iptv.everydaytv.top/taiwanlive.php?id=14
-东森幼幼,http://iptv.everydaytv.top/taiwanlive.php?id=15
-龙华卡通台,http://iptv.everydaytv.top/taiwanlive.php?id=16
-纬来综合,http://iptv.everydaytv.top/taiwanlive.php?id=17
-八大第一台,http://iptv.everydaytv.top/taiwanlive.php?id=18
-八大综合台,http://iptv.everydaytv.top/taiwanlive.php?id=19
-三立台湾台,http://iptv.everydaytv.top/taiwanlive.php?id=20
-三立都会台,http://iptv.everydaytv.top/taiwanlive.php?id=21
-中天综合,http://iptv.everydaytv.top/taiwanlive.php?id=25
-卫视中文台,http://iptv.everydaytv.top/taiwanlive.php?id=22
-东森超视,http://iptv.everydaytv.top/taiwanlive.php?id=24
-中天娱乐,http://iptv.everydaytv.top/taiwanlive.php?id=26
-东森综合,http://iptv.everydaytv.top/taiwanlive.php?id=23
-年代MUCH,http://iptv.everydaytv.top/taiwanlive.php?id=28
-东风37,http://iptv.everydaytv.top/taiwanlive.php?id=27
-东森戏剧,http://iptv.everydaytv.top/taiwanlive.php?id=29
-八大戏剧台,http://iptv.everydaytv.top/taiwanlive.php?id=30
-纬来戏剧,http://iptv.everydaytv.top/taiwanlive.php?id=31
-龙华戏剧,http://iptv.everydaytv.top/taiwanlive.php?id=32
-龙华日韩,http://iptv.everydaytv.top/taiwanlive.php?id=33
-纬来日本,http://iptv.everydaytv.top/taiwanlive.php?id=35
-龙华偶像,http://iptv.everydaytv.top/taiwanlive.php?id=34
-华视资讯,http://iptv.everydaytv.top/taiwanlive.php?id=36
-年代新闻,http://iptv.everydaytv.top/taiwanlive.php?id=37
-中天新闻,http://iptv.everydaytv.top/taiwanlive.php?id=39
-东森新闻,http://iptv.everydaytv.top/taiwanlive.php?id=38
-民视新闻,http://iptv.everydaytv.top/taiwanlive.php?id=40
-非凡商业,http://iptv.everydaytv.top/taiwanlive.php?id=43
-非凡新闻,http://iptv.everydaytv.top/taiwanlive.php?id=42
-三立新闻,http://iptv.everydaytv.top/taiwanlive.php?id=41
-东森财经新闻,http://iptv.everydaytv.top/taiwanlive.php?id=44
-寰宇新闻台,http://iptv.everydaytv.top/taiwanlive.php?id=45
-壹新闻,http://iptv.everydaytv.top/taiwanlive.php?id=46
-BLOOMBERG,http://iptv.everydaytv.top/taiwanlive.php?id=47
-NHK,http://iptv.everydaytv.top/taiwanlive.php?id=48
-卫视电影台,http://iptv.everydaytv.top/taiwanlive.php?id=49
-好莱坞电影,http://iptv.everydaytv.top/taiwanlive.php?id=50
-纬来电影,http://iptv.everydaytv.top/taiwanlive.php?id=51
-纬来电影,http://iptv.everydaytv.top/taiwanlive.php?id=52
-CINEMAX,http://iptv.everydaytv.top/taiwanlive.php?id=55
-STAR MOVIE,http://iptv.everydaytv.top/taiwanlive.php?id=56
-纬来育乐,http://iptv.everydaytv.top/taiwanlive.php?id=58
-STAR WORLD,http://iptv.everydaytv.top/taiwanlive.php?id=57
-纬来体育,http://iptv.everydaytv.top/taiwanlive.php?id=59
-博斯运动1,http://iptv.everydaytv.top/taiwanlive.php?id=60
-MOMO综合台,http://iptv.everydaytv.top/taiwanlive.php?id=61
-ELEVEN 1,http://iptv.everydaytv.top/taiwanlive.php?id=62
-ELEVEN 2,http://iptv.everydaytv.top/taiwanlive.php?id=63
-凤凰中文,http://iptv.everydaytv.top/taiwanlive.php?id=71
-凤凰资讯,http://iptv.everydaytv.top/taiwanlive.php?id=72
+
 
 
 晴天,#genre#
