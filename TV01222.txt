@@ -23,69 +23,71 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MALAYSIA🇲🇾" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",TV2 HD
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", TV2 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MALAYSIA🇲🇾" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",TV2 HD (Backup)
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2 HD (Backup)
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
 
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA🇲🇾",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA🇲🇾", TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA🇲🇾",TV3
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA🇲🇾", TV3
 https://aqfadtv.xyz/live/tv3/index.mpd
  
-#EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
+#EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVS" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIAN", TV6
+
+#EXTINF:-1 tvg-id="TVS" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png", TVS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 tvg-id="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/200px-TVS_Sarawak.jpg" group-title="MALAYSIA🇲🇾",TVS
+#EXTINF:-1 tvg-id="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/200px-TVS_Sarawak.jpg" group-title="MALAYSIA🇲🇾", TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
-#EXTINF:-1 tvg-id="AwesomeTV" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",AWESOME TV
+#EXTINF:-1 tvg-id="AwesomeTV" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png", AWESOME TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
-#EXTINF:-1 tvg-id="OKEY" group-title="MALAYSIA🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV OKEY
+#EXTINF:-1 tvg-id="OKEY" group-title="MALAYSIA🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/a803270e-0c66-4a76-923c-621778390008
-#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MALAYSIA🇲🇾" tvg-logo="https://didik.tv/images/logotv2.png",DIDIK TV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MALAYSIA🇲🇾" tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIK TV KPM (Backup)
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾", DIDIK TV KPM (Backup)
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ccd0b402-bff3-405c-90e9-d5e7751bcb38
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="MALAYSIA🇲🇾",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="MALAYSIA🇲🇾", 8TV
 https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ffd0e2a2-f9e4-4159-ac8a-c0dd385def5e
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="MALAYSIA🇲🇾" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="MALAYSIA🇲🇾" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png", TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
-#EXTINF:-1 tvg-id="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA🇲🇾",BERNAMA
+#EXTINF:-1 tvg-id="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA🇲🇾", BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/beritartm.jpg" group-title="MALAYSIA🇲🇾",Berita RTM
