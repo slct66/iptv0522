@@ -99,18 +99,18 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 tvg-id="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA🇲🇾", BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
-#EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/beritartm.jpg" group-title="MALAYSIA🇲🇾",Berita RTM
+#EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://www.rtm.gov.my/images/Pemasaran/tv/ikontv/beritartm.jpg" group-title="MALAYSIA🇲🇾", Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 
-#EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAYSIA🇲🇾",Berita RTM (backup)
+#EXTINF:-1 tvg-id="RTMK04" tvg-name="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MALAYSIA🇲🇾",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
+#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="MALAYSIA🇲🇾", ASTRO AWANI
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#EXTINF:-1 tvg-id="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/200px-Astro_Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI (backup)
+#EXTINF:-1 tvg-id="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/200px-Astro_Awani.png" group-title="MALAYSIA🇲🇾",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 Movies
@@ -1028,7 +1028,7 @@ http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" tvg-id="6154" tvg-name="HBOSignature" group-title="港澳台",HBO 原创钜献
 http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="港澳及国外",HBO 温馨家庭
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" tvg-id="6155" tvg-name="HBOFamily" group-title="港澳台",HBO 温馨家庭
 ttp://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
@@ -1039,13 +1039,13 @@ http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&c
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道
 
-#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png"  group-title="港澳及国外",Discovery Asia
+#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png"  group-title="港澳台",Discovery Asia
 http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 
 #EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png"  group-title="港澳台",DMAX(高清)
 http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
 
-#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="港澳及国外",Discovery 科学频道
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="港澳台",Discovery 科学频道
 http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台",动物星球
@@ -1065,7 +1065,7 @@ http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳台",凤凰卫视香港台
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 
@@ -1106,7 +1106,7 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 China
 
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV6",CCTV16
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
@@ -1726,783 +1726,470 @@ http://iptv12k.com:35461/live/test167/12345/1300.m3u8
 
 
 #EXTINF:-1 group-title="IPTV12K",[HK]翡翠台
-http://iptv12k.com:35461/80203091402/213445/1021.m3u8
+http://iptv12k.com:35461/80203091402/213445/1021
 #EXTINF:-1 group-title="IPTV12K",[HK]无线新闻台
-http://iptv12k.com:35461/80203091402/213445/1012.m3u8
+http://iptv12k.com:35461/80203091402/213445/1012
 #EXTINF:-1 group-title="IPTV12K",[HK]无线财经资讯台
-http://iptv12k.com:35461/80203091402/213445/1011.m3u8
+http://iptv12k.com:35461/80203091402/213445/1011
 #EXTINF:-1 group-title="IPTV12K",[HK]J2
-http://iptv12k.com:35461/80203091402/213445/1006.m3u8
+http://iptv12k.com:35461/80203091402/213445/1006
 #EXTINF:-1 group-title="IPTV12K",[HK]明珠台
-http://iptv12k.com:35461/80203091402/213445/1020.m3u8
+http://iptv12k.com:35461/80203091402/213445/1020
 #EXTINF:-1 group-title="IPTV12K",[HK]TVB娱乐新闻台
-http://iptv12k.com:35461/80203091402/213445/1001.m3u8
+http://iptv12k.com:35461/80203091402/213445/1001
 #EXTINF:-1 group-title="IPTV12K",[HK]TVB千禧经典台
-http://iptv12k.com:35461/80203091402/213445/1003.m3u8
+http://iptv12k.com:35461/80203091402/213445/1003
 #EXTINF:-1 group-title="IPTV12K",[HK]TVB星河
-http://iptv12k.com:35461/80203091402/213445/1000.m3u8
+http://iptv12k.com:35461/80203091402/213445/1000
 #EXTINF:-1 group-title="IPTV12K",[HK]RTHK31
-http://iptv12k.com:35461/80203091402/213445/1004.m3u8
+http://iptv12k.com:35461/80203091402/213445/1004
 #EXTINF:-1 group-title="IPTV12K",[HK]RTHK32
-http://iptv12k.com:35461/80203091402/213445/1005.m3u8
+http://iptv12k.com:35461/80203091402/213445/1005
 #EXTINF:-1 group-title="IPTV12K",[HK]有线新闻台
-http://iptv12k.com:35461/80203091402/213445/1018.m3u8
+http://iptv12k.com:35461/80203091402/213445/1018
 #EXTINF:-1 group-title="IPTV12K",[HK]有线电影台
-http://iptv12k.com:35461/80203091402/213445/1010.m3u8
+http://iptv12k.com:35461/80203091402/213445/1010
 #EXTINF:-1 group-title="IPTV12K",[HK]有线体育台
-http://iptv12k.com:35461/80203091402/213445/1017.m3u8
+http://iptv12k.com:35461/80203091402/213445/1017
 #EXTINF:-1 group-title="IPTV12K",[HK]有线18台
-http://iptv12k.com:35461/80203091402/213445/1022.m3u8
+http://iptv12k.com:35461/80203091402/213445/1022
 #EXTINF:-1 group-title="IPTV12K",[HK]有线603台
-http://iptv12k.com:35461/80203091402/213445/1023.m3u8
+http://iptv12k.com:35461/80203091402/213445/1023
 #EXTINF:-1 group-title="IPTV12K",[HK]香港开电视
-http://iptv12k.com:35461/80203091402/213445/1013.m3u8
+http://iptv12k.com:35461/80203091402/213445/1013
 #EXTINF:-1 group-title="IPTV12K",[HK]Now新闻台
-http://iptv12k.com:35461/80203091402/213445/1002.m3u8
+http://iptv12k.com:35461/80203091402/213445/1002
 #EXTINF:-1 group-title="IPTV12K",[HK]Now直播台
-http://iptv12k.com:35461/80203091402/213445/1015.m3u8
+http://iptv12k.com:35461/80203091402/213445/1015
 #EXTINF:-1 group-title="IPTV12K",[HK]Now Sports Prime
-http://iptv12k.com:35461/80203091402/213445/1014.m3u8
+http://iptv12k.com:35461/80203091402/213445/1014
 #EXTINF:-1 group-title="IPTV12K",[HK]VIUTV
-http://iptv12k.com:35461/80203091402/213445/1008.m3u8
+http://iptv12k.com:35461/80203091402/213445/1008
 #EXTINF:-1 group-title="IPTV12K",[HK]VIUTV 6
-http://iptv12k.com:35461/80203091402/213445/1007.m3u8
+http://iptv12k.com:35461/80203091402/213445/1007
 #EXTINF:-1 group-title="IPTV12K",[HK]耀才财经台
-http://iptv12k.com:35461/80203091402/213445/1016.m3u8
+http://iptv12k.com:35461/80203091402/213445/1016
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP
-http://iptv12k.com:35461/80203091402/213445/972.m3u8
+http://iptv12k.com:35461/80203091402/213445/972
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP(b)
-http://iptv12k.com:35461/80203091402/213445/7990.m3u8
+http://iptv12k.com:35461/80203091402/213445/7990
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP2
-http://iptv12k.com:35461/80203091402/213445/971.m3u8
+http://iptv12k.com:35461/80203091402/213445/971
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP2(b)
-http://iptv12k.com:35461/80203091402/213445/655.m3u8
+http://iptv12k.com:35461/80203091402/213445/655
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP2(b2)
-http://iptv12k.com:35461/80203091402/213445/7988.m3u8
+http://iptv12k.com:35461/80203091402/213445/7988
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP3
-http://iptv12k.com:35461/80203091402/213445/970.m3u8
+http://iptv12k.com:35461/80203091402/213445/970
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP3(b)
-http://iptv12k.com:35461/80203091402/213445/654.m3u8
+http://iptv12k.com:35461/80203091402/213445/654
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP3(b2)
-http://iptv12k.com:35461/80203091402/213445/7985.m3u8
+http://iptv12k.com:35461/80203091402/213445/7985
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP4
-http://iptv12k.com:35461/80203091402/213445/7983.m3u8
+http://iptv12k.com:35461/80203091402/213445/7983
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP4(b)
-http://iptv12k.com:35461/80203091402/213445/969.m3u8
+http://iptv12k.com:35461/80203091402/213445/969
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP4(b2)
-http://iptv12k.com:35461/80203091402/213445/653.m3u8
+http://iptv12k.com:35461/80203091402/213445/653
 #EXTINF:-1 group-title="IPTV12K",[MY]ASSP5
-http://iptv12k.com:35461/80203091402/213445/7982.m3u8
+http://iptv12k.com:35461/80203091402/213445/7982
 #EXTINF:-1 group-title="IPTV12K",[MY]AEC
-http://iptv12k.com:35461/80203091402/213445/709.m3u8
+http://iptv12k.com:35461/80203091402/213445/709
 #EXTINF:-1 group-title="IPTV12K",[MY]AOD351
-http://iptv12k.com:35461/80203091402/213445/705.m3u8
+http://iptv12k.com:35461/80203091402/213445/705
 #EXTINF:-1 group-title="IPTV12K",[MY]AOD352
-http://iptv12k.com:35461/80203091402/213445/704.m3u8
+http://iptv12k.com:35461/80203091402/213445/704
 #EXTINF:-1 group-title="IPTV12K",[MY]AOD353
-http://iptv12k.com:35461/80203091402/213445/703.m3u8
+http://iptv12k.com:35461/80203091402/213445/703
 #EXTINF:-1 group-title="IPTV12K",[MY]AOD354
-http://iptv12k.com:35461/80203091402/213445/702.m3u8
+http://iptv12k.com:35461/80203091402/213445/702
 #EXTINF:-1 group-title="IPTV12K",[MY]AOD355
-http://iptv12k.com:35461/80203091402/213445/701.m3u8
+http://iptv12k.com:35461/80203091402/213445/701
 #EXTINF:-1 group-title="IPTV12K",[MY]翡翠华丽台
-http://iptv12k.com:35461/80203091402/213445/698.m3u8
+http://iptv12k.com:35461/80203091402/213445/698
 #EXTINF:-1 group-title="IPTV12K",[MY]双星
-http://iptv12k.com:35461/80203091402/213445/706.m3u8
+http://iptv12k.com:35461/80203091402/213445/706
 #EXTINF:-1 group-title="IPTV12K",[MY]全佳
-http://iptv12k.com:35461/80203091402/213445/710.m3u8
+http://iptv12k.com:35461/80203091402/213445/710
 #EXTINF:-1 group-title="IPTV12K",[MY]欢喜台
-http://iptv12k.com:35461/80203091402/213445/707.m3u8
+http://iptv12k.com:35461/80203091402/213445/707
 #EXTINF:-1 group-title="IPTV12K",[MY]爱奇艺
-http://iptv12k.com:35461/80203091402/213445/708.m3u8
+http://iptv12k.com:35461/80203091402/213445/708
 #EXTINF:-1 group-title="IPTV12K",[MY]小太阳
-http://iptv12k.com:35461/80203091402/213445/700.m3u8
+http://iptv12k.com:35461/80203091402/213445/700
 #EXTINF:-1 group-title="IPTV12K",[MY]中天亞洲台
-http://iptv12k.com:35461/80203091402/213445/694.m3u8
+http://iptv12k.com:35461/80203091402/213445/694
 #EXTINF:-1 group-title="IPTV12K",[MY]TVBS亞洲台
-http://iptv12k.com:35461/80203091402/213445/695.m3u8
+http://iptv12k.com:35461/80203091402/213445/695
 #EXTINF:-1 group-title="IPTV12K",[MY]TVB星河
-http://iptv12k.com:35461/80203091402/213445/696.m3u8
+http://iptv12k.com:35461/80203091402/213445/696
 #EXTINF:-1 group-title="IPTV12K",[MY]TVB娛樂新聞台
-http://iptv12k.com:35461/80203091402/213445/697.m3u8
+http://iptv12k.com:35461/80203091402/213445/697
 #EXTINF:-1 group-title="IPTV12K",[MY]TVB經典台
-http://iptv12k.com:35461/80203091402/213445/699.m3u8
+http://iptv12k.com:35461/80203091402/213445/699
 #EXTINF:-1 group-title="IPTV12K",[MY]天映頻道
-http://iptv12k.com:35461/80203091402/213445/581.m3u8
+http://iptv12k.com:35461/80203091402/213445/581
 #EXTINF:-1 group-title="IPTV12K",[MY]天映頻道
-http://iptv12k.com:35461/80203091402/213445/692.m3u8
+http://iptv12k.com:35461/80203091402/213445/692
 #EXTINF:-1 group-title="IPTV12K",[MY]天映经典
-http://iptv12k.com:35461/80203091402/213445/693.m3u8
+http://iptv12k.com:35461/80203091402/213445/693.
 #EXTINF:-1 group-title="IPTV12K",[MY]8TV
-http://iptv12k.com:35461/80203091402/213445/738.m3u8
+http://iptv12k.com:35461/80203091402/213445/738
 #EXTINF:-1 group-title="IPTV12K",[MY]ABC
-http://iptv12k.com:35461/80203091402/213445/592.m3u8
+http://iptv12k.com:35461/80203091402/213445/592
 #EXTINF:-1 group-title="IPTV12K",[MY]AFN
-http://iptv12k.com:35461/80203091402/213445/640.m3u8
+http://iptv12k.com:35461/80203091402/213445/640
 #EXTINF:-1 group-title="IPTV12K",[MY]ANIMAX
-http://iptv12k.com:35461/80203091402/213445/605.m3u8
+http://iptv12k.com:35461/80203091402/213445/605
 #EXTINF:-1 group-title="IPTV12K",[MY]ANIPLUS
-http://iptv12k.com:35461/80203091402/213445/686.m3u8
+http://iptv12k.com:35461/80203091402/213445/686
 #EXTINF:-1 group-title="IPTV12K",[MY]AXN
-http://iptv12k.com:35461/80203091402/213445/608.m3u8
+http://iptv12k.com:35461/80203091402/213445/608
 #EXTINF:-1 group-title="IPTV12K",[MY]AXN
-http://iptv12k.com:35461/80203091402/213445/1243.m3u8
+http://iptv12k.com:35461/80203091402/213445/1243
 #EXTINF:-1 group-title="IPTV12K",[MY]AnimalPlanet
-http://iptv12k.com:35461/80203091402/213445/633.m3u8
+http://iptv12k.com:35461/80203091402/213445/633
 #EXTINF:-1 group-title="IPTV12K",[MY]BBCEarth
-http://iptv12k.com:35461/80203091402/213445/624.m3u8
+http://iptv12k.com:35461/80203091402/213445/624
 #EXTINF:-1 group-title="IPTV12K",[MY]BBC
-http://iptv12k.com:35461/80203091402/213445/623.m3u8
+http://iptv12k.com:35461/80203091402/213445/623
 #EXTINF:-1 group-title="IPTV12K",[MY]BOOMERANG
-http://iptv12k.com:35461/80203091402/213445/614.m3u8
+http://iptv12k.com:35461/80203091402/213445/614
 #EXTINF:-1 group-title="IPTV12K",[MY]BabyTV
-http://iptv12k.com:35461/80203091402/213445/616.m3u8
+http://iptv12k.com:35461/80203091402/213445/616
 #EXTINF:-1 group-title="IPTV12K",[MY]Bloomberg
-http://iptv12k.com:35461/80203091402/213445/590.m3u8
+http://iptv12k.com:35461/80203091402/213445/590
 #EXTINF:-1 group-title="IPTV12K",[MY]CARTOON
-http://iptv12k.com:35461/80203091402/213445/613.m3u8
+http://iptv12k.com:35461/80203091402/213445/613
 #EXTINF:-1 group-title="IPTV12K",[MY]CBeebies
-http://iptv12k.com:35461/80203091402/213445/615.m3u8
+http://iptv12k.com:35461/80203091402/213445/615
 #EXTINF:-1 group-title="IPTV12K",[MY]CI
-http://iptv12k.com:35461/80203091402/213445/634.m3u8
+http://iptv12k.com:35461/80203091402/213445/634
 #EXTINF:-1 group-title="IPTV12K",[MY]CINEMAX
-http://iptv12k.com:35461/80203091402/213445/607.m3u8
+http://iptv12k.com:35461/80203091402/213445/607
 #EXTINF:-1 group-title="IPTV12K",[MY]CN
-http://iptv12k.com:35461/80203091402/213445/618.m3u8
+http://iptv12k.com:35461/80203091402/213445/618
 #EXTINF:-1 group-title="IPTV12K",[MY]CNBC
-http://iptv12k.com:35461/80203091402/213445/593.m3u8
+http://iptv12k.com:35461/80203091402/213445/593
 #EXTINF:-1 group-title="IPTV12K",[MY]CNN
-http://iptv12k.com:35461/80203091402/213445/594.m3u8
+http://iptv12k.com:35461/80203091402/213445/594
 #EXTINF:-1 group-title="IPTV12K",[MY]CinemaWorld
-http://iptv12k.com:35461/80203091402/213445/1881.m3u8
+http://iptv12k.com:35461/80203091402/213445/1881
 #EXTINF:-1 group-title="IPTV12K",[MY]Cinemax
-http://iptv12k.com:35461/80203091402/213445/1882.m3u8
+http://iptv12k.com:35461/80203091402/213445/1882
 #EXTINF:-1 group-title="IPTV12K",[MY]Cinemax
-http://iptv12k.com:35461/80203091402/213445/1883.m3u8
+http://iptv12k.com:35461/80203091402/213445/1883
 #EXTINF:-1 group-title="IPTV12K",[MY]ComedyCentral
-http://iptv12k.com:35461/80203091402/213445/683.m3u8
+http://iptv12k.com:35461/80203091402/213445/683
 #EXTINF:-1 group-title="IPTV12K",[MY]Cricket
-http://iptv12k.com:35461/80203091402/213445/684.m3u8
+http://iptv12k.com:35461/80203091402/213445/684
 #EXTINF:-1 group-title="IPTV12K",[MY]DMAX
-http://iptv12k.com:35461/80203091402/213445/636.m3u8
+http://iptv12k.com:35461/80203091402/213445/636
 #EXTINF:-1 group-title="IPTV12K",[MY]DW
-http://iptv12k.com:35461/80203091402/213445/622.m3u8
+http://iptv12k.com:35461/80203091402/213445/622
 #EXTINF:-1 group-title="IPTV12K",[MY]Discovery
-http://iptv12k.com:35461/80203091402/213445/627.m3u8
+http://iptv12k.com:35461/80203091402/213445/627
 #EXTINF:-1 group-title="IPTV12K",[MY]DisneyXD
-http://iptv12k.com:35461/80203091402/213445/626.m3u8
+http://iptv12k.com:35461/80203091402/213445/626
 #EXTINF:-1 group-title="IPTV12K",[MY]Eentertainment
-http://iptv12k.com:35461/80203091402/213445/637.m3u8
+http://iptv12k.com:35461/80203091402/213445/637
 #EXTINF:-1 group-title="IPTV12K",[MY]EURONEWS
-http://iptv12k.com:35461/80203091402/213445/588.m3u8
+http://iptv12k.com:35461/80203091402/213445/588
 #EXTINF:-1 group-title="IPTV12K",[MY]EUROSPORT
-http://iptv12k.com:35461/80203091402/213445/647.m3u8
+http://iptv12k.com:35461/80203091402/213445/647
 #EXTINF:-1 group-title="IPTV12K",[MY]FOXMOVIES+
-http://iptv12k.com:35461/80203091402/213445/611.m3u8
+http://iptv12k.com:35461/80203091402/213445/611
 #EXTINF:-1 group-title="IPTV12K",[MY]FOXMOVIES+
-http://iptv12k.com:35461/80203091402/213445/612.m3u8
+http://iptv12k.com:35461/80203091402/213445/612
 #EXTINF:-1 group-title="IPTV12K",[MY]FOXMOVIES
-http://iptv12k.com:35461/80203091402/213445/610.m3u8
+http://iptv12k.com:35461/80203091402/213445/610
 #EXTINF:-1 group-title="IPTV12K",[MY]FOXNEWS
-http://iptv12k.com:35461/80203091402/213445/587.m3u8
+http://iptv12k.com:35461/80203091402/213445/587
 #EXTINF:-1 group-title="IPTV12K",[MY]FOX
-http://iptv12k.com:35461/80203091402/213445/609.m3u8
+http://iptv12k.com:35461/80203091402/213445/609
 #EXTINF:-1 group-title="IPTV12K",[MY]FRANCE24
-http://iptv12k.com:35461/80203091402/213445/589.m3u8
+http://iptv12k.com:35461/80203091402/213445/589
 #EXTINF:-1 group-title="IPTV12K",[MY]FoodChannel
-http://iptv12k.com:35461/80203091402/213445/638.m3u8
+http://iptv12k.com:35461/80203091402/213445/638
 #EXTINF:-1 group-title="IPTV12K",[MY]GOLF
-http://iptv12k.com:35461/80203091402/213445/651.m3u8
+http://iptv12k.com:35461/80203091402/213445/651
 #EXTINF:-1 group-title="IPTV12K",[MY]HBOFamily
-http://iptv12k.com:35461/80203091402/213445/1891.m3u8
+http://iptv12k.com:35461/80203091402/213445/1891
 #EXTINF:-1 group-title="IPTV12K",[MY]HBOFamily
-http://iptv12k.com:35461/80203091402/213445/597.m3u8
+http://iptv12k.com:35461/80203091402/213445/597
 #EXTINF:-1 group-title="IPTV12K",[MY]HBOHiTS
-http://iptv12k.com:35461/80203091402/213445/603.m3u8
+http://iptv12k.com:35461/80203091402/213445/603
 #EXTINF:-1 group-title="IPTV12K",[MY]HBOHits
-http://iptv12k.com:35461/80203091402/213445/1889.m3u8
+http://iptv12k.com:35461/80203091402/213445/1889
 #EXTINF:-1 group-title="IPTV12K",[MY]HBOHits
-http://iptv12k.com:35461/80203091402/213445/598.m3u8
+http://iptv12k.com:35461/80203091402/213445/598
 #EXTINF:-1 group-title="IPTV12K",[MY]HBOSignature
-http://iptv12k.com:35461/80203091402/213445/596.m3u8
+http://iptv12k.com:35461/80203091402/213445/596
 #EXTINF:-1 group-title="IPTV12K",[MY]HBO
-http://iptv12k.com:35461/80203091402/213445/599.m3u8
+http://iptv12k.com:35461/80203091402/213445/599
 #EXTINF:-1 group-title="IPTV12K",[MY]HGTV
-http://iptv12k.com:35461/80203091402/213445/641.m3u8
+http://iptv12k.com:35461/80203091402/213445/641
 #EXTINF:-1 group-title="IPTV12K",[MY]HISTORY
-http://iptv12k.com:35461/80203091402/213445/629.m3u8
+http://iptv12k.com:35461/80203091402/213445/629
 #EXTINF:-1 group-title="IPTV12K",[MY]HITSMOVIES
-http://iptv12k.com:35461/80203091402/213445/602.m3u8
+http://iptv12k.com:35461/80203091402/213445/602
 #EXTINF:-1 group-title="IPTV12K",[MY]KBSWorld
-http://iptv12k.com:35461/80203091402/213445/713.m3u8
+http://iptv12k.com:35461/80203091402/213445/713
 #EXTINF:-1 group-title="IPTV12K",[MY]Kix
-http://iptv12k.com:35461/80203091402/213445/689.m3u8
+http://iptv12k.com:35461/80203091402/213445/689
 #EXTINF:-1 group-title="IPTV12K",[MY]LOVENATURE
-http://iptv12k.com:35461/80203091402/213445/621.m3u8
+http://iptv12k.com:35461/80203091402/213445/621
 #EXTINF:-1 group-title="IPTV12K",[MY]MTV
-http://iptv12k.com:35461/80203091402/213445/586.m3u8
+http://iptv12k.com:35461/80203091402/213445/586
 #EXTINF:-1 group-title="IPTV12K",[MY]NAT GEO
-http://iptv12k.com:35461/80203091402/213445/632.m3u8
+http://iptv12k.com:35461/80203091402/213445/632
 #EXTINF:-1 group-title="IPTV12K",[MY]NAT GEO WILD
-http://iptv12k.com:35461/80203091402/213445/630.m3u8
+http://iptv12k.com:35461/80203091402/213445/630
 #EXTINF:-1 group-title="IPTV12K",[MY]NET GEO WILD
-http://iptv12k.com:35461/80203091402/213445/1222.m3u8
+http://iptv12k.com:35461/80203091402/213445/1222
 #EXTINF:-1 group-title="IPTV12K",[MY]NBATV
-http://iptv12k.com:35461/80203091402/213445/942.m3u8
+http://iptv12k.com:35461/80203091402/213445/942
 #EXTINF:-1 group-title="IPTV12K",[MY]NHKWORLD
-http://iptv12k.com:35461/80203091402/213445/585.m3u8
+http://iptv12k.com:35461/80203091402/213445/585
 #EXTINF:-1 group-title="IPTV12K",[MY]Oh!K
-http://iptv12k.com:35461/80203091402/213445/712.m3u8
+http://iptv12k.com:35461/80203091402/213445/712
 #EXTINF:-1 group-title="IPTV12K",[MY]One
-http://iptv12k.com:35461/80203091402/213445/711.m3u8
+http://iptv12k.com:35461/80203091402/213445/711
 #EXTINF:-1 group-title="IPTV12K",[MY]Outdoor
-http://iptv12k.com:35461/80203091402/213445/582.m3u8
+http://iptv12k.com:35461/80203091402/213445/582
 #EXTINF:-1 group-title="IPTV12K",[MY]PREMIERSPORTS
-http://iptv12k.com:35461/80203091402/213445/687.m3u8
+http://iptv12k.com:35461/80203091402/213445/687
 #EXTINF:-1 group-title="IPTV12K",[MY]ROCKENTERTAINMENT
-http://iptv12k.com:35461/80203091402/213445/601.m3u8
+http://iptv12k.com:35461/80203091402/213445/601
 #EXTINF:-1 group-title="IPTV12K",[MY]ROCKEXTREME
-http://iptv12k.com:35461/80203091402/213445/600.m3u8
+http://iptv12k.com:35461/80203091402/213445/600
 #EXTINF:-1 group-title="IPTV12K",[MY]SKYNEWS
-http://iptv12k.com:35461/80203091402/213445/591.m3u8
+http://iptv12k.com:35461/80203091402/213445/591
 #EXTINF:-1 group-title="IPTV12K",[MY]TLC
-http://iptv12k.com:35461/80203091402/213445/639.m3u8
+http://iptv12k.com:35461/80203091402/213445/639
 #EXTINF:-1 group-title="IPTV12K",[MY]TSN
-http://iptv12k.com:35461/80203091402/213445/1878.m3u8
+http://iptv12k.com:35461/80203091402/213445/1878
 #EXTINF:-1 group-title="IPTV12K",[MY]TrvlChannel
-http://iptv12k.com:35461/80203091402/213445/635.m3u8
+http://iptv12k.com:35461/80203091402/213445/635
 #EXTINF:-1 group-title="IPTV12K",[MY]WARNERTV
-http://iptv12k.com:35461/80203091402/213445/604.m3u8
+http://iptv12k.com:35461/80203091402/213445/604
 #EXTINF:-1 group-title="IPTV12K",[MY]WWE
-http://iptv12k.com:35461/80203091402/213445/652.m3u8
+http://iptv12k.com:35461/80203091402/213445/652
 #EXTINF:-1 group-title="IPTV12K",[MY]nickjr
-http://iptv12k.com:35461/80203091402/213445/619.m3u8
+http://iptv12k.com:35461/80203091402/213445/619
 #EXTINF:-1 group-title="IPTV12K",[MY]nick
-http://iptv12k.com:35461/80203091402/213445/617.m3u8
+http://iptv12k.com:35461/80203091402/213445/617
 #EXTINF:-1 group-title="IPTV12K",[MY]tvNMovies
-http://iptv12k.com:35461/80203091402/213445/715.m3u8
+http://iptv12k.com:35461/80203091402/213445/715
 #EXTINF:-1 group-title="IPTV12K",[MY]tvN
-http://iptv12k.com:35461/80203091402/213445/714.m3u8
+http://iptv12k.com:35461/80203091402/213445/714
 #EXTINF:-1 group-title="IPTV12K",[TW]TVBS
-http://iptv12k.com:35461/80203091402/213445/1272.m3u8
+http://iptv12k.com:35461/80203091402/213445/1272
 #EXTINF:-1 group-title="IPTV12K",[TW]TVBS欢乐台
-http://iptv12k.com:35461/80203091402/213445/1271.m3u8
+http://iptv12k.com:35461/80203091402/213445/1271
 #EXTINF:-1 group-title="IPTV12K",[TW]三立iNews
-http://iptv12k.com:35461/80203091402/213445/1358.m3u8
+http://iptv12k.com:35461/80203091402/213445/1358
 #EXTINF:-1 group-title="IPTV12K",[TW]三立台湾台
-http://iptv12k.com:35461/80203091402/213445/1286.m3u8
+http://iptv12k.com:35461/80203091402/213445/1286
 #EXTINF:-1 group-title="IPTV12K",[TW]三立新闻
-http://iptv12k.com:35461/80203091402/213445/1285.m3u8
+http://iptv12k.com:35461/80203091402/213445/1285
 #EXTINF:-1 group-title="IPTV12K",[TW]三立都会台
-http://iptv12k.com:35461/80203091402/213445/1287.m3u8
+http://iptv12k.com:35461/80203091402/213445/1287
 #EXTINF:-1 group-title="IPTV12K",[TW]東森电影台
-http://iptv12k.com:35461/80203091402/213445/1866.m3u8
+http://iptv12k.com:35461/80203091402/213445/1866
 #EXTINF:-1 group-title="IPTV12K",[TW]东森戏剧
-http://iptv12k.com:35461/80203091402/213445/1255.m3u8
+http://iptv12k.com:35461/80203091402/213445/1255
 #EXTINF:-1 group-title="IPTV12K",[TW]东森综合
-http://iptv12k.com:35461/80203091402/213445/1280.m3u8
+http://iptv12k.com:35461/80203091402/213445/1280
 #EXTINF:-1 group-title="IPTV12K",[TW]东森羊片
-http://iptv12k.com:35461/80203091402/213445/1256.m3u8
+http://iptv12k.com:35461/80203091402/213445/1256
 #EXTINF:-1 group-title="IPTV12K",[TW]東森洋片
-http://iptv12k.com:35461/80203091402/213445/1867.m3u8
+http://iptv12k.com:35461/80203091402/213445/1867
 #EXTINF:-1 group-title="IPTV12K",[TW]东森财经新闻
-http://iptv12k.com:35461/80203091402/213445/1356.m3u8
+http://iptv12k.com:35461/80203091402/213445/1356
 #EXTINF:-1 group-title="IPTV12K",[TW]中天亚洲台
-http://iptv12k.com:35461/80203091402/213445/1278.m3u8
+http://iptv12k.com:35461/80203091402/213445/1278
 #EXTINF:-1 group-title="IPTV12K",[TW]中天新闻
-http://iptv12k.com:35461/80203091402/213445/1357.m3u8
+http://iptv12k.com:35461/80203091402/213445/1357
 #EXTINF:-1 group-title="IPTV12K",[TW]中视新闻
-http://iptv12k.com:35461/80203091402/213445/1291.m3u8
+http://iptv12k.com:35461/80203091402/213445/1291
 #EXTINF:-1 group-title="IPTV12K",[TW]中视菁采台
-http://iptv12k.com:35461/80203091402/213445/1273.m3u8
+http://iptv12k.com:35461/80203091402/213445/1273
 #EXTINF:-1 group-title="IPTV12K",[TW]八大娱乐台
-http://iptv12k.com:35461/80203091402/213445/1281.m3u8
+http://iptv12k.com:35461/80203091402/213445/1281
 #EXTINF:-1 group-title="IPTV12K",[TW]八大戏剧台
-http://iptv12k.com:35461/80203091402/213445/1284.m3u8
+http://iptv12k.com:35461/80203091402/213445/1284
 #EXTINF:-1 group-title="IPTV12K",[TW]八大第一台
-http://iptv12k.com:35461/80203091402/213445/1282.m3u8
+http://iptv12k.com:35461/80203091402/213445/1282
 #EXTINF:-1 group-title="IPTV12K",[TW]八大综合台
-http://iptv12k.com:35461/80203091402/213445/1283.m3u8
+http://iptv12k.com:35461/80203091402/213445/1283
 #EXTINF:-1 group-title="IPTV12K",[TW]卫视中文台
-http://iptv12k.com:35461/80203091402/213445/1257.m3u8
+http://iptv12k.com:35461/80203091402/213445/1257
 #EXTINF:-1 group-title="IPTV12K",[TW]卫视电影台
-http://iptv12k.com:35461/80203091402/213445/1258.m3u8
+http://iptv12k.com:35461/80203091402/213445/1258
 #EXTINF:-1 group-title="IPTV12K",[TW]卫视电影台
-http://iptv12k.com:35461/80203091402/213445/1261.m3u8
+http://iptv12k.com:35461/80203091402/213445/1261
 #EXTINF:-1 group-title="IPTV12K",[TW]卫视电影台
-http://iptv12k.com:35461/80203091402/213445/1868.m3u8
+http://iptv12k.com:35461/80203091402/213445/1868
 #EXTINF:-1 group-title="IPTV12K",[TW]台视
-http://iptv12k.com:35461/80203091402/213445/1290.m3u8
+http://iptv12k.com:35461/80203091402/213445/1290
 #EXTINF:-1 group-title="IPTV12K",[TW]壹新闻
-http://iptv12k.com:35461/80203091402/213445/1293.m3u8
+http://iptv12k.com:35461/80203091402/213445/1293
 #EXTINF:-1 group-title="IPTV12K",[TW]年代新闻
-http://iptv12k.com:35461/80203091402/213445/1359.m3u8
+http://iptv12k.com:35461/80203091402/213445/1359
 #EXTINF:-1 group-title="IPTV12K",[TW]星卫HD电影
-http://iptv12k.com:35461/80203091402/213445/1870.m3u8
+http://iptv12k.com:35461/80203091402/213445/1870
 #EXTINF:-1 group-title="IPTV12K",[TW]星卫娱乐台
-http://iptv12k.com:35461/80203091402/213445/1247.m3u8
+http://iptv12k.com:35461/80203091402/213445/1247
 #EXTINF:-1 group-title="IPTV12K",[TW]纬来体育
-http://iptv12k.com:35461/80203091402/213445/1237.m3u8
+http://iptv12k.com:35461/80203091402/213445/1237
 #EXTINF:-1 group-title="IPTV12K",[TW]纬来日本
-http://iptv12k.com:35461/80203091402/213445/1238.m3u8
+http://iptv12k.com:35461/80203091402/213445/1238
 #EXTINF:-1 group-title="IPTV12K",[TW]纬来电影
-http://iptv12k.com:35461/80203091402/213445/1236.m3u8
+http://iptv12k.com:35461/80203091402/213445/1236
 #EXTINF:-1 group-title="IPTV12K",[TW]纬来精采
-http://iptv12k.com:35461/80203091402/213445/1239.m3u8
+http://iptv12k.com:35461/80203091402/213445/1239
 #EXTINF:-1 group-title="IPTV12K",[TW]纬来综合
-http://iptv12k.com:35461/80203091402/213445/1240.m3u8
+http://iptv12k.com:35461/80203091402/213445/1240
 #EXTINF:-1 group-title="IPTV12K",[TW]美亚电影台
-http://iptv12k.com:35461/80203091402/213445/1260.m3u8
+http://iptv12k.com:35461/80203091402/213445/1260
 #EXTINF:-1 group-title="IPTV12K",[TW]美亚电影台
-http://iptv12k.com:35461/80203091402/213445/1869.m3u8
+http://iptv12k.com:35461/80203091402/213445/1869
 #EXTINF:-1 group-title="IPTV12K",[TW]美食星球
-http://iptv12k.com:35461/80203091402/213445/1259.m3u8
+http://iptv12k.com:35461/80203091402/213445/1259
 #EXTINF:-1 group-title="IPTV12K",[TW]ELEVEN2
-http://iptv12k.com:35461/80203091402/213445/1217.m3u8
+http://iptv12k.com:35461/80203091402/213445/1217
 #EXTINF:-1 group-title="IPTV12K",[TW]ELTA体育1台
-http://iptv12k.com:35461/80203091402/213445/1221.m3u8
+http://iptv12k.com:35461/80203091402/213445/1221
 #EXTINF:-1 group-title="IPTV12K",[TW]ELTA体育3台
-http://iptv12k.com:35461/80203091402/213445/1219.m3u8
+http://iptv12k.com:35461/80203091402/213445/1219
 #EXTINF:-1 group-title="IPTV12K",[TW]ELTA綜合
-http://iptv12k.com:35461/80203091402/213445/679.m3u8
+http://iptv12k.com:35461/80203091402/213445/679
 #EXTINF:-1 group-title="IPTV12K",[TW]ELTA影剧
-http://iptv12k.com:35461/80203091402/213445/1248.m3u8
+http://iptv12k.com:35461/80203091402/213445/1248
 #EXTINF:-1 group-title="IPTV12K",[TW]EYE TV旅游
-http://iptv12k.com:35461/80203091402/213445/1223.m3u8
+http://iptv12k.com:35461/80203091402/213445/1223
 #EXTINF:-1 group-title="IPTV12K",[TW]JET综合
-http://iptv12k.com:35461/80203091402/213445/1262.m3u8
+http://iptv12k.com:35461/80203091402/213445/1262
 #EXTINF:-1 group-title="IPTV12K",[TW]霹靂台灣台
-http://iptv12k.com:35461/80203091402/213445/690.m3u8
+http://iptv12k.com:35461/80203091402/213445/690
 #EXTINF:-1 group-title="IPTV12K",[TW]大爱
-http://iptv12k.com:35461/80203091402/213445/1204.m3u8
+http://iptv12k.com:35461/80203091402/213445/1204
 #EXTINF:-1 group-title="IPTV12K",[TW]天映頻道
-http://iptv12k.com:35461/80203091402/213445/1875.m3u8
+http://iptv12k.com:35461/80203091402/213445/1875
 #EXTINF:-1 group-title="IPTV12K",[TW]天映经典
-http://iptv12k.com:35461/80203091402/213445/1253.m3u8
+http://iptv12k.com:35461/80203091402/213445/1253
 #EXTINF:-1 group-title="IPTV12K",[TW]天映经典
-http://iptv12k.com:35461/80203091402/213445/1871.m3u8
+http://iptv12k.com:35461/80203091402/213445/1871
 #EXTINF:-1 group-title="IPTV12K",[TW]新唐人亚太台
-http://iptv12k.com:35461/80203091402/213445/1200.m3u8
+http://iptv12k.com:35461/80203091402/213445/1200
 #EXTINF:-1 group-title="IPTV12K",[TW]momo亲子台
-http://iptv12k.com:35461/80203091402/213445/1209.m3u8
+http://iptv12k.com:35461/80203091402/213445/1209
 #EXTINF:-1 group-title="IPTV12K",[TW]人间卫视
-http://iptv12k.com:35461/80203091402/213445/1202.m3u8
+http://iptv12k.com:35461/80203091402/213445/1202
 #EXTINF:-1 group-title="IPTV12K",[TW]SBN全球财经台
-http://iptv12k.com:35461/80203091402/213445/1251.m3u8
+http://iptv12k.com:35461/80203091402/213445/1251
 #EXTINF:-1 group-title="IPTV12K",[TW]SBN全球财经台
-http://iptv12k.com:35461/80203091402/213445/1277.m3u8
+http://iptv12k.com:35461/80203091402/213445/1277
 #EXTINF:-1 group-title="IPTV12K",[TW]AFN亚洲美食
-http://iptv12k.com:35461/80203091402/213445/1229.m3u8
+http://iptv12k.com:35461/80203091402/213445/1229
 #EXTINF:-1 group-title="IPTV12K",[TW]动物星球
-http://iptv12k.com:35461/80203091402/213445/1233.m3u8
+http://iptv12k.com:35461/80203091402/213445/1233
 #EXTINF:-1 group-title="IPTV12K",[TW]好莱坞电影
-http://iptv12k.com:35461/80203091402/213445/1249.m3u8
+http://iptv12k.com:35461/80203091402/213445/1249
 #EXTINF:-1 group-title="IPTV12K",[TW]AXN b
-http://iptv12k.com:35461/80203091402/213445/2127.m3u8
+http://iptv12k.com:35461/80203091402/213445/2127
 #EXTINF:-1 group-title="IPTV12K",[TW]AXN
-http://iptv12k.com:35461/80203091402/213445/1885.m3u8
+http://iptv12k.com:35461/80203091402/213445/1885
 #EXTINF:-1 group-title="IPTV12K",[TW]CATCHPLAY电影台
-http://iptv12k.com:35461/80203091402/213445/1252.m3u8
+http://iptv12k.com:35461/80203091402/213445/1252
 #EXTINF:-1 group-title="IPTV12K",[TW]CINEMAX
-http://iptv12k.com:35461/80203091402/213445/1214.m3u8
+http://iptv12k.com:35461/80203091402/213445/1214
 #EXTINF:-1 group-title="IPTV12K",[TW]CatchPlay電影台
-http://iptv12k.com:35461/80203091402/213445/1865.m3u8
+http://iptv12k.com:35461/80203091402/213445/1865
 #EXTINF:-1 group-title="IPTV12K",[TW]Ci罪案侦缉频道
-http://iptv12k.com:35461/80203091402/213445/1246.m3u8
+http://iptv12k.com:35461/80203091402/213445/1246
 #EXTINF:-1 group-title="IPTV12K",[TW]DW
-http://iptv12k.com:35461/80203091402/213445/1208.m3u8
+http://iptv12k.com:35461/80203091402/213445/1208
 #EXTINF:-1 group-title="IPTV12K",[TW]HBO HD
-http://iptv12k.com:35461/80203091402/213445/1893.m3u8
+http://iptv12k.com:35461/80203091402/213445/1893
 #EXTINF:-1 group-title="IPTV12K",[TW]HBO HD
-http://iptv12k.com:35461/80203091402/213445/1266.m3u8
+http://iptv12k.com:35461/80203091402/213445/1266
 #EXTINF:-1 group-title="IPTV12K",[TW]HBO原创
-http://iptv12k.com:35461/80203091402/213445/1887.m3u8
+http://iptv12k.com:35461/80203091402/213445/1887
 #EXTINF:-1 group-title="IPTV12K",[TW]HBO原创
-http://iptv12k.com:35461/80203091402/213445/1263.m3u8
+http://iptv12k.com:35461/80203091402/213445/1263
 #EXTINF:-1 group-title="IPTV12K",[TW]HBO家庭
-http://iptv12k.com:35461/80203091402/213445/1265.m3u8
+http://iptv12k.com:35461/80203091402/213445/1265
 #EXTINF:-1 group-title="IPTV12K",[TW]HBO强档
-http://iptv12k.com:35461/80203091402/213445/1264.m3u8
+http://iptv12k.com:35461/80203091402/213445/1264
 #EXTINF:-1 group-title="IPTV12K",[TW]HISTORY
-http://iptv12k.com:35461/80203091402/213445/1206.m3u8
+http://iptv12k.com:35461/80203091402/213445/1206
 #EXTINF:-1 group-title="IPTV12K",[TW]HISTORY2
-http://iptv12k.com:35461/80203091402/213445/1201.m3u8
+http://iptv12k.com:35461/80203091402/213445/1201
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV1
-http://iptv12k.com:35461/80203091402/213445/1333.m3u8
+http://iptv12k.com:35461/80203091402/213445/1333
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV2
-http://iptv12k.com:35461/80203091402/213445/1332.m3u8
+http://iptv12k.com:35461/80203091402/213445/1332
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV3
-http://iptv12k.com:35461/80203091402/213445/1331.m3u8
+http://iptv12k.com:35461/80203091402/213445/1331
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV4
-http://iptv12k.com:35461/80203091402/213445/1330.m3u8
+http://iptv12k.com:35461/80203091402/213445/1330
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV5
-http://iptv12k.com:35461/80203091402/213445/1329.m3u8
+http://iptv12k.com:35461/80203091402/213445/1329
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV5+
-http://iptv12k.com:35461/80203091402/213445/1328.m3u8
+http://iptv12k.com:35461/80203091402/213445/1328
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV6
-http://iptv12k.com:35461/80203091402/213445/1327.m3u8
+http://iptv12k.com:35461/80203091402/213445/1327
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV7
-http://iptv12k.com:35461/80203091402/213445/1326.m3u8
+http://iptv12k.com:35461/80203091402/213445/1326
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV8
-http://iptv12k.com:35461/80203091402/213445/1325.m3u8
+http://iptv12k.com:35461/80203091402/213445/1325
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV9
-http://iptv12k.com:35461/80203091402/213445/1324.m3u8
+http://iptv12k.com:35461/80203091402/213445/1324
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV10
-http://iptv12k.com:35461/80203091402/213445/1323.m3u8
+http://iptv12k.com:35461/80203091402/213445/1323
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV11
-http://iptv12k.com:35461/80203091402/213445/1322.m3u8
+http://iptv12k.com:35461/80203091402/213445/1322
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV12
-http://iptv12k.com:35461/80203091402/213445/1321.m3u8
+http://iptv12k.com:35461/80203091402/213445/1321
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV13
-http://iptv12k.com:35461/80203091402/213445/1320.m3u8
+http://iptv12k.com:35461/80203091402/213445/1320
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV14
-http://iptv12k.com:35461/80203091402/213445/1319.m3u8
+http://iptv12k.com:35461/80203091402/213445/1319
 #EXTINF:-1 group-title="IPTV12K",[CN]CCTV15
-http://iptv12k.com:35461/80203091402/213445/1318.m3u8
+http://iptv12k.com:35461/80203091402/213445/1318
 #EXTINF:-1 group-title="IPTV12K",[CN]东方卫视
-http://iptv12k.com:35461/80203091402/213445/1309.m3u8
+http://iptv12k.com:35461/80203091402/213445/1309
 #EXTINF:-1 group-title="IPTV12K",[CN]北京卫视
-http://iptv12k.com:35461/80203091402/213445/1312.m3u8
+http://iptv12k.com:35461/80203091402/213445/1312
 #EXTINF:-1 group-title="IPTV12K",[CN]广东卫视
-http://iptv12k.com:35461/80203091402/213445/1313.m3u8
+http://iptv12k.com:35461/80203091402/213445/1313
 #EXTINF:-1 group-title="IPTV12K",[CN]浙江卫视
-http://iptv12k.com:35461/80203091402/213445/1316.m3u8
+http://iptv12k.com:35461/80203091402/213445/1316
 #EXTINF:-1 group-title="IPTV12K",[CN]湖南卫视
-http://iptv12k.com:35461/80203091402/213445/1317.m3u8
+http://iptv12k.com:35461/80203091402/213445/1317
 #EXTINF:-1 group-title="IPTV12K",[CN]深圳卫视
-http://iptv12k.com:35461/80203091402/213445/1302.m3u8
+http://iptv12k.com:35461/80203091402/213445/1302
 #EXTINF:-1 group-title="IPTV12K",[CN]天津卫视
-http://iptv12k.com:35461/80203091402/213445/1303.m3u8
+http://iptv12k.com:35461/80203091402/213445/1303
 #EXTINF:-1 group-title="IPTV12K",[CN]山东卫视
-http://iptv12k.com:35461/80203091402/213445/1307.m3u8
+http://iptv12k.com:35461/80203091402/213445/1307
 #EXTINF:-1 group-title="IPTV12K",[CN]安徽卫视
-http://iptv12k.com:35461/80203091402/213445/1308.m3u8
+http://iptv12k.com:35461/80203091402/213445/1308
 #EXTINF:-1 group-title="IPTV12K",[CN]辽宁卫视
-http://iptv12k.com:35461/80203091402/213445/1295.m3u8
+http://iptv12k.com:35461/80203091402/213445/1295
 #EXTINF:-1 group-title="IPTV12K",[CN]黑龙江卫视
-http://iptv12k.com:35461/80203091402/213445/1298.m3u8
+http://iptv12k.com:35461/80203091402/213445/1298
 #EXTINF:-1 group-title="IPTV12K",[CN]重庆卫视
-http://iptv12k.com:35461/80203091402/213445/1299.m3u8
+http://iptv12k.com:35461/80203091402/213445/1299
 #EXTINF:-1 group-title="IPTV12K",[CN]海南卫视
-http://iptv12k.com:35461/80203091402/213445/1301.m3u8
+http://iptv12k.com:35461/80203091402/213445/1301
 #EXTINF:-1 group-title="IPTV12K",[CN]云南卫视
-http://iptv12k.com:35461/80203091402/213445/1297.m3u8
+http://iptv12k.com:35461/80203091402/213445/1297
 #EXTINF:-1 group-title="IPTV12K",[CN]河南卫视
-http://iptv12k.com:35461/80203091402/213445/1300.m3u8
+http://iptv12k.com:35461/80203091402/213445/1300
 
 
 
-
-
-#EXTINF:-1 group-title="測試頻道",民视第一台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv003
-#EXTINF:-1 group-title="測試頻道",民视台湾台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv001
-#EXTINF:-1 group-title="測試頻道",民视
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv002
-#EXTINF:-1 group-title="測試頻道",中视
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv040
-#EXTINF:-1 group-title="測試頻道",中视经典台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv080
-#EXTINF:-1 group-title="測試頻道",华视
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv041
-#EXTINF:-1 group-title="測試頻道",三立综合台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live207
-#EXTINF:-1 group-title="測試頻道",八大综艺台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv039
-#EXTINF:-1 group-title="測試頻道",中视菁采台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv064
-#EXTINF:-1 group-title="測試頻道",TVBS精采台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live086
-#EXTINF:-1 group-title="測試頻道",爱尔达娱乐台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv070
-#EXTINF:-1 group-title="測試頻道",靖天综合台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv046
-#EXTINF:-1 group-title="測試頻道",靖天日本台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv047
-#EXTINF:-1 group-title="測試頻道",新唐人亚太台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live050
-#EXTINF:-1 group-title="測試頻道",中天综合台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live033
-#EXTINF:-1 group-title="測試頻道",ARIRANG阿里郎频道
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv079
-#EXTINF:-1 group-title="測試頻道",Global Trekker
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live112
-#EXTINF:-1 group-title="測試頻道",Nick Jr. 儿童频道
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live032
-#EXTINF:-1 group-title="測試頻道",尼克儿童频道
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live105
-#EXTINF:-1 group-title="測試頻道",靖天卡通台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv044
-#EXTINF:-1 group-title="測試頻道",靖洋卡通Nice Bingo
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv057
-#EXTINF:-1 group-title="測試頻道",i-Fun动漫台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv15
-#EXTINF:-1 group-title="測試頻道",MOMO亲子台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live107
-#EXTINF:-1 group-title="測試頻道",CN卡通
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live205
-#EXTINF:-1 group-title="測試頻道",镜电视新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv075
-#EXTINF:-1 group-title="測試頻道",东森新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live114
-#EXTINF:-1 group-title="測試頻道",华视新闻
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv052
-#EXTINF:-1 group-title="測試頻道",民视新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv13
-#EXTINF:-1 group-title="測試頻道",TVBS新闻
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live072
-#EXTINF:-1 group-title="測試頻道",东森财经新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live019
-#EXTINF:-1 group-title="測試頻道",中视新闻
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
-#EXTINF:-1 group-title="測試頻道",中天新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
-#EXTINF:-1 group-title="測試頻道",寰宇新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn14
-#EXTINF:-1 group-title="測試頻道",TVBS
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv073
-#EXTINF:-1 group-title="測試頻道",靖天育乐台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv062
-#EXTINF:-1 group-title="測試頻道",KLT-靖天国际台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv063
-#EXTINF:-1 group-title="測試頻道",Nice TV 靖天欢乐台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv054
-#EXTINF:-1 group-title="測試頻道",靖天资讯台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv065
-#EXTINF:-1 group-title="測試頻道",TVBS欢乐台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv068
-#EXTINF:-1 group-title="測試頻道",民视旅游台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv07
-#EXTINF:-1 group-title="測試頻道",亚洲旅游台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn17
-#EXTINF:-1 group-title="測試頻道",fun探索娱乐台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live011
-#EXTINF:-1 group-title="測試頻道",幸福空间居家台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live206
-#EXTINF:-1 group-title="測試頻道",Love Nature
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live208
-#EXTINF:-1 group-title="測試頻道",History 历史频道
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live026
-#EXTINF:-1 group-title="測試頻道",爱尔达生活旅游台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live120
-#EXTINF:-1 group-title="測試頻道",LUXE TV Channel
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live121
-#EXTINF:-1 group-title="測試頻道",TV5MONDE STYLE HD 生活时尚
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live122
-#EXTINF:-1 group-title="測試頻道",中天美食旅游
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live123
-#EXTINF:-1 group-title="測試頻道",公视戏剧
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv042
-#EXTINF:-1 group-title="測試頻道",民视影剧台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv09
-#EXTINF:-1 group-title="測試頻道",龙华戏剧台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn18
-#EXTINF:-1 group-title="測試頻道",HITS频道
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live620
-#EXTINF:-1 group-title="測試頻道",龙华日韩台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn11
-#EXTINF:-1 group-title="測試頻道",八大精彩台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv034
-#EXTINF:-1 group-title="測試頻道",靖天戏剧台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv058
-#EXTINF:-1 group-title="測試頻道",靖洋戏剧台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv045
-#EXTINF:-1 group-title="測試頻道",CI 罪案侦查频道
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live027
-#EXTINF:-1 group-title="測試頻道",采昌影剧台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv049
-#EXTINF:-1 group-title="測試頻道",靖天映画
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv055
-#EXTINF:-1 group-title="測試頻道",靖天电影台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv061
-#EXTINF:-1 group-title="測試頻道",龙华电影台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn03
-#EXTINF:-1 group-title="測試頻道",影迷数位电影台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv011
-#EXTINF:-1 group-title="測試頻道",amc最爱电影
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv017
-#EXTINF:-1 group-title="測試頻道",CinemaWorld
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live069
-#EXTINF:-1 group-title="測試頻道",CATCHPLAY Beyond
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live155
-#EXTINF:-1 group-title="測試頻道",CATCHPLAY电影台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv076
-#EXTINF:-1 group-title="測試頻道",My Cinema Europe HD 我的欧洲电影
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live157
-#EXTINF:-1 group-title="測試頻道",好消息2台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv17
-#EXTINF:-1 group-title="測試頻道",好消息
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv16
-#EXTINF:-1 group-title="測試頻道",半岛国际新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv10
-#EXTINF:-1 group-title="測試頻道",VOA美国之音
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv03
-#EXTINF:-1 group-title="測試頻道",CNBC Asia 财经台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live130
-#EXTINF:-1 group-title="測試頻道",DW德国之声
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live071
-#EXTINF:-1 group-title="測試頻道",CNN头条新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live203
-#EXTINF:-1 group-title="測試頻道",CNN国际新闻台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live204
-#EXTINF:-1 group-title="測試頻道",经典电影台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live021
-#EXTINF:-1 group-title="測試頻道",经典卡通台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live022
-#EXTINF:-1 group-title="測試頻道",儿童卡通台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live009
-#EXTINF:-1 group-title="測試頻道",精选动漫台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live024
-#EXTINF:-1 group-title="測試頻道",华语戏剧台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live005
-#EXTINF:-1 group-title="測試頻道",华语综艺台
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live006
-#EXTINF:-1 group-title="測試頻道",戏剧免费看
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live010
-#EXTINF:-1 group-title="測試頻道",电影免费看
-https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live013
-
-#EXTINF:-1 group-title="測試頻道",TEST01
-http://123.58.201.173:52411/test/lshotel.php?id=1
-#EXTINF:-1 group-title="測試頻道",TEST02
-http://123.58.201.173:52411/test/lshotel.php?id=2
-#EXTINF:-1 group-title="測試頻道",TEST03
-http://123.58.201.173:52411/test/lshotel.php?id=3
-#EXTINF:-1 group-title="測試頻道",TEST04
-http://123.58.201.173:52411/test/lshotel.php?id=4
-#EXTINF:-1 group-title="測試頻道",TEST05
-http://123.58.201.173:52411/test/lshotel.php?id=5
-#EXTINF:-1 group-title="測試頻道",TEST08
-http://123.58.201.173:52411/test/lshotel.php?id=8
-#EXTINF:-1 group-title="測試頻道",TEST09
-http://123.58.201.173:52411/test/lshotel.php?id=9
-#EXTINF:-1 group-title="測試頻道",TEST10
-http://123.58.201.173:52411/test/lshotel.php?id=10
-#EXTINF:-1 group-title="測試頻道",TEST11
-http://123.58.201.173:52411/test/lshotel.php?id=11
-#EXTINF:-1 group-title="測試頻道",TEST12
-http://123.58.201.173:52411/test/lshotel.php?id=12
-#EXTINF:-1 group-title="測試頻道",TEST13
-http://123.58.201.173:52411/test/lshotel.php?id=13
-#EXTINF:-1 group-title="測試頻道",TEST14
-http://123.58.201.173:52411/test/lshotel.php?id=14
-#EXTINF:-1 group-title="測試頻道",TEST15
-http://123.58.201.173:52411/test/lshotel.php?id=15
-#EXTINF:-1 group-title="測試頻道",TEST16
-http://123.58.201.173:52411/test/lshotel.php?id=16
-#EXTINF:-1 group-title="測試頻道",TEST17
-http://123.58.201.173:52411/test/lshotel.php?id=17
-#EXTINF:-1 group-title="測試頻道",TEST18
-http://123.58.201.173:52411/test/lshotel.php?id=18
-#EXTINF:-1 group-title="測試頻道",TEST19
-http://123.58.201.173:52411/test/lshotel.php?id=19
-#EXTINF:-1 group-title="測試頻道",TEST20
-http://123.58.201.173:52411/test/lshotel.php?id=20
-#EXTINF:-1 group-title="測試頻道",TEST21
-http://123.58.201.173:52411/test/lshotel.php?id=21
-#EXTINF:-1 group-title="測試頻道",TEST22
-http://123.58.201.173:52411/test/lshotel.php?id=22
-#EXTINF:-1 group-title="測試頻道",TEST23
-http://123.58.201.173:52411/test/lshotel.php?id=23
-#EXTINF:-1 group-title="測試頻道",TEST24
-http://123.58.201.173:52411/test/lshotel.php?id=24
-#EXTINF:-1 group-title="測試頻道",TEST25
-http://123.58.201.173:52411/test/lshotel.php?id=25
-#EXTINF:-1 group-title="測試頻道",TEST26
-http://123.58.201.173:52411/test/lshotel.php?id=26
-#EXTINF:-1 group-title="測試頻道",TEST27
-http://123.58.201.173:52411/test/lshotel.php?id=27
-#EXTINF:-1 group-title="測試頻道",TEST28
-http://123.58.201.173:52411/test/lshotel.php?id=28
-#EXTINF:-1 group-title="測試頻道",TEST29
-http://123.58.201.173:52411/test/lshotel.php?id=29
-#EXTINF:-1 group-title="測試頻道",TEST30
-http://123.58.201.173:52411/test/lshotel.php?id=30
-#EXTINF:-1 group-title="測試頻道",TEST31
-http://123.58.201.173:52411/test/lshotel.php?id=31
-#EXTINF:-1 group-title="測試頻道",TEST32
-http://123.58.201.173:52411/test/lshotel.php?id=32
-#EXTINF:-1 group-title="測試頻道",TEST33
-http://123.58.201.173:52411/test/lshotel.php?id=33
-#EXTINF:-1 group-title="測試頻道",TEST34
-http://123.58.201.173:52411/test/lshotel.php?id=34
-#EXTINF:-1 group-title="測試頻道",TEST35
-http://123.58.201.173:52411/test/lshotel.php?id=35
-#EXTINF:-1 group-title="測試頻道",TEST36
-http://123.58.201.173:52411/test/lshotel.php?id=36
-#EXTINF:-1 group-title="測試頻道",TEST37
-http://123.58.201.173:52411/test/lshotel.php?id=37
-#EXTINF:-1 group-title="測試頻道",TEST38
-http://123.58.201.173:52411/test/lshotel.php?id=38
-#EXTINF:-1 group-title="測試頻道",TEST39
-http://123.58.201.173:52411/test/lshotel.php?id=39
-#EXTINF:-1 group-title="測試頻道",TEST40
-http://123.58.201.173:52411/test/lshotel.php?id=40
-#EXTINF:-1 group-title="測試頻道",TEST41
-http://123.58.201.173:52411/test/lshotel.php?id=41
-#EXTINF:-1 group-title="測試頻道",TEST42
-http://123.58.201.173:52411/test/lshotel.php?id=42
-#EXTINF:-1 group-title="測試頻道",TEST43
-http://123.58.201.173:52411/test/lshotel.php?id=43
-#EXTINF:-1 group-title="測試頻道",TEST44
-http://123.58.201.173:52411/test/lshotel.php?id=44
-#EXTINF:-1 group-title="測試頻道",TEST45
-http://123.58.201.173:52411/test/lshotel.php?id=45
-#EXTINF:-1 group-title="測試頻道",TEST46
-http://123.58.201.173:52411/test/lshotel.php?id=46
-#EXTINF:-1 group-title="測試頻道",TEST47
-http://123.58.201.173:52411/test/lshotel.php?id=47
-#EXTINF:-1 group-title="測試頻道",TEST48
-http://123.58.201.173:52411/test/lshotel.php?id=48
-#EXTINF:-1 group-title="測試頻道",TEST49
-http://123.58.201.173:52411/test/lshotel.php?id=49
-#EXTINF:-1 group-title="測試頻道",TEST50
-http://123.58.201.173:52411/test/lshotel.php?id=50
-#EXTINF:-1 group-title="測試頻道",TEST51
-http://123.58.201.173:52411/test/lshotel.php?id=51
-#EXTINF:-1 group-title="測試頻道",TEST52
-http://123.58.201.173:52411/test/lshotel.php?id=52
-#EXTINF:-1 group-title="測試頻道",TEST53
-http://123.58.201.173:52411/test/lshotel.php?id=53
-#EXTINF:-1 group-title="測試頻道",TEST54
-http://123.58.201.173:52411/test/lshotel.php?id=54
-#EXTINF:-1 group-title="測試頻道",TEST55
-http://123.58.201.173:52411/test/lshotel.php?id=55
-#EXTINF:-1 group-title="測試頻道",TEST56
-http://123.58.201.173:52411/test/lshotel.php?id=56
-#EXTINF:-1 group-title="測試頻道",TEST57
-http://123.58.201.173:52411/test/lshotel.php?id=57
-#EXTINF:-1 group-title="測試頻道",TEST58
-http://123.58.201.173:52411/test/lshotel.php?id=58
-#EXTINF:-1 group-title="測試頻道",TEST59
-http://123.58.201.173:52411/test/lshotel.php?id=59
-#EXTINF:-1 group-title="測試頻道",TEST60
-http://123.58.201.173:52411/test/lshotel.php?id=60
-#EXTINF:-1 group-title="測試頻道",TEST61
-http://123.58.201.173:52411/test/lshotel.php?id=61
-#EXTINF:-1 group-title="測試頻道",TEST62
-http://123.58.201.173:52411/test/lshotel.php?id=62
-#EXTINF:-1 group-title="測試頻道",TEST63
-http://123.58.201.173:52411/test/lshotel.php?id=63
-#EXTINF:-1 group-title="測試頻道",TEST64
-http://123.58.201.173:52411/test/lshotel.php?id=64
-#EXTINF:-1 group-title="測試頻道",TEST65
-http://123.58.201.173:52411/test/lshotel.php?id=65
-#EXTINF:-1 group-title="測試頻道",TEST66
-http://123.58.201.173:52411/test/lshotel.php?id=66
-#EXTINF:-1 group-title="測試頻道",TEST67
-http://123.58.201.173:52411/test/lshotel.php?id=67
-#EXTINF:-1 group-title="測試頻道",TEST68
-http://123.58.201.173:52411/test/lshotel.php?id=68
-#EXTINF:-1 group-title="測試頻道",TEST69
-http://123.58.201.173:52411/test/lshotel.php?id=69
-#EXTINF:-1 group-title="測試頻道",TEST70
-http://123.58.201.173:52411/test/lshotel.php?id=70
-#EXTINF:-1 group-title="測試頻道",TEST71
-http://123.58.201.173:52411/test/lshotel.php?id=71
-#EXTINF:-1 group-title="測試頻道",TEST72
-http://123.58.201.173:52411/test/lshotel.php?id=72
-#EXTINF:-1 group-title="測試頻道",TEST73
-http://123.58.201.173:52411/test/lshotel.php?id=73
 
