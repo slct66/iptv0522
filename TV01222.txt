@@ -419,6 +419,7 @@ Astro
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
 #https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2400/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -449,11 +450,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TVBJade" ch-number="310" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
