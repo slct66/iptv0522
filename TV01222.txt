@@ -454,7 +454,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD AstGO
+#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2507
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
@@ -462,10 +462,10 @@ http://iptv12k.com:35461/live/test167/12345/710.m3u8
 http://iptv12k.com:35461/80203091402/213445/710
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia (backup)
+#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia (backup)
 http://50.7.220.74:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
 
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD (backup)
+#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD (backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2507
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
