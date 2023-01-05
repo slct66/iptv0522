@@ -416,7 +416,7 @@ Astro
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2400
 #https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2400/default_primary.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
@@ -454,7 +454,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2507
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
