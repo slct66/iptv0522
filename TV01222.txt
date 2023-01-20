@@ -372,7 +372,7 @@ http://iptv12k.com:35461/live/test167/12345/972.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-https://aqfadtv.xyz/live/supersport2/index.mpd
+http://iptv12k.com:35461/86599050501/645678/971
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD AstGO
 http://iptv12k.com:35461/live/test167/12345/971.m3u8
@@ -391,7 +391,7 @@ http://iptv12k.com:35461/live/test167/12345/970.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
-http://iptvmedia.live:8080/LeCyGodF/de198ad6/157558
+http://iptv12k.com:35461/86599050501/645678/7983
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 http://iptv12k.com:35461/live/test167/12345/7983.m3u8
@@ -444,6 +444,9 @@ http://iptv12k.com:35461/live/test167/12345/709.m3u8
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC AstGO
 https://stream.zeehanzgadget.com/aec
 
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC AstGO
+http://iptv12k.com:35461/86599050501/645678/709
+
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
@@ -484,6 +487,9 @@ http://iptv12k.com:35461/live/test167/12345/706.m3u8
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing AstGO
 https://stream.zeehanzgadget.com/shuangxing
 
+#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing AstGO
+http://iptv12k.com:35461/86599050501/645678/706
+
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD
 http://50.7.220.74:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
 
@@ -498,6 +504,9 @@ http://iptv12k.com:35461/live/test167/12345/710.m3u8
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD
 https://stream.zeehanzgadget.com/quanjia
+
+#EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia HD
+http://iptv12k.com:35461/86599050501/645678/710
 
 #EXTINF:-1 tvg-id="TVBJade" ch-number="310" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
