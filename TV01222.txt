@@ -22,6 +22,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/uy.xml, https://iptv-org.github.io/epg/guides/vn.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://weareblahs.github.io/epg/astro.xml, https://iptv-org.github.io/epg/guides/ca.xml, https://iptv-org.github.io/epg/guides/tr.xml, https://iptv-org.github.io/epg/guides/pt.xml, https://iptv-org.github.io/epg/guides/ro.xml, https://iptv-org.github.io/epg/guides/rs.xml, https://iptv-org.github.io/epg/guides/qa.xml, https://aqfadtv.xyz/epg, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
 MALAYSIA🇲🇾
 
+#EXTM3U billed-msg="🔥 SL_IPTV 88 [not for sale］🔥"
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1 HD
@@ -1247,6 +1249,7 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="🇨🇳港澳台",ELTA综合台
+http://iptv12k.com:35461/86599050501/645678/679
 
 #EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="🇨🇳港澳台",爱尔达影剧 HD
 http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
@@ -1296,6 +1299,7 @@ http://120.84.96.73:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",龙祥时代
 
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="🇨🇳港澳台",卫视电影台
+http://iptv12k.com:35461/86599050501/645678/1258
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳港澳台",星卫电影 HD
 http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
